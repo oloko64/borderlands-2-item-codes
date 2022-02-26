@@ -9,7 +9,7 @@
 - [x] Consumables
 - [x] Visual Parts Reference
 - [x] Blue Legendary Class Mods
-- [ ] Modded Weapons and items that passes sanity check
+- [x] Modded Weapons and items that passes sanity check
 - [ ] Modded items that passes sanity check
 - [ ] Material codes - Assault rifles
 - [ ] Material codes - Pistols (CODES FOR WEAPON SKINS)
