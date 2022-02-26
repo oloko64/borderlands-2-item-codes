@@ -5,8 +5,8 @@
 - [x] Seraph, Legendary, Purple & Unique Relics
 - [x] Purple Grenades
 - [x] Purple Shields
-- [ ] Heads and Skins
-- [ ] Consumables
+- [x] Heads and Skins
+- [x] Consumables
 - [ ] Visual Parts Reference
 - [ ] Blue Legendary Class Mods
 - [ ] Modded Weapons and items that passes sanity check
