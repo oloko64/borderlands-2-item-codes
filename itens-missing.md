@@ -7,8 +7,8 @@
 - [x] Purple Shields
 - [x] Heads and Skins
 - [x] Consumables
-- [ ] Visual Parts Reference
-- [ ] Blue Legendary Class Mods
+- [x] Visual Parts Reference
+- [x] Blue Legendary Class Mods
 - [ ] Modded Weapons and items that passes sanity check
 - [ ] Modded items that passes sanity check
 - [ ] Material codes - Assault rifles
