@@ -1,5 +1,7 @@
 # Legendary Assassin
 
+![](./assets/classMods-legendary-assassin.jpeg)
+
     Legendary Hunter 
     (Headsh0t/Fast Hands/C0unter Strike/Killing Bl0w/Ir0n Hand +5 All) 
     (Cooldown Rate +35% / Critical Damage +29% / Reload Speed +16%) BL2(BwAAAADTlAArDZShYxAyGQXBAUEAwf///////////38DASYBAME=) 
@@ -18,6 +20,8 @@
     (Burn Damage +26% / Burn Chance +26% / Max Health +8294) BL2(BwAAAADVKQAjDZKhYxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 # Purple Assassin
+
+![](./assets/classMods-purple-assassin.jpeg)
 
     Bloodied Survivor 
     (Resurgence +5 / Ambush +4 / Rising Sh0t +4) 
@@ -289,6 +293,8 @@
     BL2(BwAAAACftgkWFAWwEBG9ngXBAUEAwf///////////38DgQUhAME=)
 
 # Blue Assassin
+
+![](./assets/classMods-blue-assassin.jpeg)
 
     Contemptible Survivor 
     (Ambush +6 / Rising Sh0t +5) 
@@ -832,6 +838,8 @@
 
 # Legendary Commando
 
+![](./assets/classMods-legendary-commando.jpeg)
+
     Legendary Soldier 
     (Sentry / Ready / Impact / Expertise / Healthy / Preparation +5 All) 
     (Cooldown Rate +35% / Gun Damage +29% / Fire Rate +16%) 
@@ -852,6 +860,8 @@
     BL2(BwAAAAAY+wAADWihQxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 # Purple Commando
+
+![](./assets/classMods-purple-commando.jpeg)
 
     Military Specialist 
     (Duty Calls +5 / Ready +4 / Forbearance +4) 
@@ -1124,6 +1134,8 @@
     BL2(BwAAAAC1FgkDFAGwEBG9ngXBAUEAwf///////////38DAQEhAME=)
 
 # Blue Commando
+
+![](./assets/classMods-blue-commando.jpeg)
 
     Military Specialist 
     (Duty Calls +6 / Ready +5) 
@@ -1666,6 +1678,8 @@
 
 # Legendary Gunzerker
 
+![](./assets/classMods-legendary-gunzerker.jpeg)
+
     Legendary Berserker 
     (Locked and Loaded / Quick Draw / Filled To The Brim / Hard To Kill / Incite +5 All) 
     (Cooldown Rate +40% / Fire Rate +22% / Melee Damage +36%) 
@@ -1686,6 +1700,8 @@
     BL2(BwAAAACE+gAiDYShIxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 # Purple Gunzerker
+
+![](./assets/classMods-legendary-gunzerker.jpeg)
 
     Loaded Hoarder 
     (Filled To The Brim +5 / 5 Shots or 6 +4 / Lay Waste +4) 
@@ -1958,6 +1974,8 @@
     BL2(BwAAAADP8wkfFAewEBG9ngXBAUEAwf///////////38DAQghAME=)
 
 # Blue Gunzerker
+
+![](./assets/classMods-blue-gunzerker.jpeg)
 
     Loaded Hoarder 
     (Filled To The Brim +6 / Lay Waste +5) 
@@ -2501,6 +2519,8 @@
 
 # Legendary Siren
 
+![](./assets/classMods-legendary-siren.jpeg)
+
     Legendary Siren 
     (Ward / Accelerate / Mind's Eye / Foresight / Flicker +5 All) 
     (Cooldown Rate +36% / Gun Damage +26%) 
@@ -2521,6 +2541,8 @@
     BL2(BwAAAAD98gAhDXahAxEyGQXBAUEAwf///////////38DwQkBAME=)
 
 # Purple Siren
+
+![](./assets/classMods-purple-siren.jpeg)
 
     Rebounding Warder 
     (Recompense +5 / Ward +4 / Wreck +4) 
@@ -2793,6 +2815,8 @@
     BL2(BwAAAACrNgkMFAOwEBG9ngXBAUEAwf///////////38DQQMhAME=)
 
 # Blue Siren
+
+![](./assets/classMods-blue-siren.jpeg)
 
     Rebounding Warder 
     (Recompense +6 / Wreck +5) 
@@ -3335,6 +3359,8 @@
 
 # Legendary Mechromancer
 
+![](./assets/classMods-legendary-mechromancer.jpeg)
+
     Legendary Mechromancer 
     (Cooking Up Trouble / The Better Half / 20% Cooler / More Pep / Strength of Five Gorillas / Smaller, Lighter, Faster) 
     (Cooldown Rate +35%) 
@@ -3355,6 +3381,8 @@
     BL2(BwAAAAAiwAIBAQMIEBEyGQXBAUEAwf///////////38DwQkBAME=)
 
 # Purple Mechromancer
+
+![](./assets/classMods-purple-mechromancer.jpeg)
 
     Improved Jill Of All Trades 
     (The Better Half +5 / More Pep +4 / Smaller, Lighter, Faster +4) 
@@ -3627,6 +3655,8 @@
     BL2(BwAAAADJlwkoFAmwEBG9ngXBAUEAwf///////////38DQQohAME=)
 
 # Blue Mechromancer
+
+![](./assets/classMods-blue-mechromancer.jpeg)
 
     Improved Jill Of All Trades 
     (The Better Half +6 / More Pep +5) 
@@ -4167,6 +4197,8 @@
 
 # Legendary Psycho
 
+![](./assets/classMods-legendary-psycho.jpeg)
+
     Legendary Psycho 
     (Blood-Filled Guns / Blood Twitch / Empty the Rage / Feed the Meat / Burn, Baby, Burn / Fuel The Fire +5 All) 
     (Burn Damage +31% / Magazine Size +31% / Shield Recharge Delay +1.50) 
@@ -4187,6 +4219,8 @@
     BL2(BwAAAAAYDAYKAAEAEBE9AAXBAUEAwf///////////38DAQkgAME=)
 
 # Purple Psycho
+
+![](./assets/classMods-purple-psycho.jpeg)
 
     Blood Blister 
     (Blood Bath +5 / Fuel the Blood +4 / Blood Overdrive +4) 
@@ -4459,6 +4493,8 @@
     BL2(BwAAAACAtAkyFAuwEBG9ngXBAUEAwf///////////38DgQwhAME=)
 
 # Blue Psycho
+
+![](./assets/classMods-blue-psycho.jpeg)
 
     Diesel Blister Class Mod	
     [Grenade Capacity +6] [Kill Skill Duration +66%]	

@@ -1,5 +1,7 @@
 # Assassin
 
+![](./assets/skins-assassin.jpg)
+
 ### Heads
 
     BL2(BwAAAAAz4wBdALoAABAAwA==) 3ng13 
@@ -131,6 +133,8 @@
 
 # Commando
 
+![](./assets/skins-commando.jpg)
+
 ## Heads 
 
     BL2(BwAAAAA/BgBXBa4oABAAwA==) Bone Blinder 
@@ -260,6 +264,8 @@
     BL2(BwAAAAC9+RUBBQMo8P8IxA==) Wandering Lance
 
 # Gunzerker
+
+![](./assets/skins-gunzerker.jpg)
 
 ## Heads
 
@@ -391,6 +397,8 @@
     BL2(BwAAAABmwxUBAgMQ8P8Ewg==) Ashes of New Haven
 
 # Siren
+
+![](./assets/skins-siren.jpg)
 
 ## Heads 
 
@@ -524,6 +532,8 @@
 
 # Mechromancer
 
+![](./assets/skins-mechromancer.jpg)
+
 ## Heads 
 
     BL2(BwAAAACWUAJWAK0AEBAy2Q==) Digitized Death 
@@ -628,6 +638,8 @@
     BL2(BwAAAACWshUBAQMI8P+DwQ==) The Cosplay Singularity
 
 # Psycho
+
+![](./assets/skins-psycho.jpg)
 
 ## Heads
 
@@ -737,6 +749,8 @@
     BL2(BwAAAABREhUBAwMY8P+DwQ==) PICK THE SCAV
 
 # Vehicle Skins
+
+![](./assets/skins-vehicle.jpg)
 
 ## Runner Skins
 
@@ -1011,6 +1025,8 @@
     BL2(BwAAAAAPjQQoAFEA8P8AwA==) Woody
 
 # Community Day, PN2 & Goliath Heads and Skins
+
+![](./assets/skins-community.jpg)
 
 These needs to be added in the Raw Tab in Gibbeds.  Here is a tutorial on how to do that:
 
