@@ -4,7 +4,8 @@
 
     Legendary Hunter 
     (Headsh0t/Fast Hands/C0unter Strike/Killing Bl0w/Ir0n Hand +5 All) 
-    (Cooldown Rate +35% / Critical Damage +29% / Reload Speed +16%) BL2(BwAAAADTlAArDZShYxAyGQXBAUEAwf///////////38DASYBAME=) 
+    (Cooldown Rate +35% / Critical Damage +29% / Reload Speed +16%) 
+    BL2(BwAAAADTlAArDZShYxAyGQXBAUEAwf///////////38DASYBAME=) 
 
     Legendary Sniper
     BL2(BwAAAACxTgoMAAsAsBBIJAXBAUEAwf///////////78EwQIgAME=)
@@ -17,7 +18,8 @@
 
     Slayer Of Terramorphous 
     (Headsh0t/0ptics/Fast Hands/C0unter Strike/Ir0n Hand +4 All) 
-    (Burn Damage +26% / Burn Chance +26% / Max Health +8294) BL2(BwAAAADVKQAjDZKhYxAyGQXBAUEAwf///////////38DwQkBAME=)
+    (Burn Damage +26% / Burn Chance +26% / Max Health +8294) 
+    BL2(BwAAAADVKQAjDZKhYxAyGQXBAUEAwf///////////38DwQkBAME=)
 
 # Purple Assassin
 
@@ -25,7 +27,8 @@
 
     Bloodied Survivor 
     (Resurgence +5 / Ambush +4 / Rising Sh0t +4) 
-    (Max Health +9015 / Health Regeneration + 236.6) BL2(BwAAAAADAQAUDZahIxAymQXBAUEAwf///////////38DQSYBAME=) 
+    (Max Health +9015 / Health Regeneration + 236.6) 
+    BL2(BwAAAAADAQAUDZahIxAymQXBAUEAwf///////////38DQSYBAME=) 
 
     Disturbed Survivor 
     (Rising Sh0t +5 / Resurgence +4 / Ambush +4) 
