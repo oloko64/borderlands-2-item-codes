@@ -66,10 +66,17 @@
 
 ![](./assets/consumables-seraph-crystal.jpeg)
 
-    Orchid: BL2(BwAAAAAB6gEAAwEYMIAAwA==)
-    Iris: BL2(BwAAAAD+nQMACQOAMIAAwA==)
-    Sage: BL2(BwAAAACMGgQACwFgEJAAwA==)
-    Aster: BL2(BwAAAAAruQkABwE4EIAAwA==)
+    Orchid
+    BL2(BwAAAAAB6gEAAwEYMIAAwA==)
+
+    Iris
+    BL2(BwAAAAD+nQMACQOAMIAAwA==)
+    
+    Sage
+    BL2(BwAAAACMGgQACwFgEJAAwA==)
+    
+    Aster
+    BL2(BwAAAAAruQkABwE4EIAAwA==)
 
 # Candy
 
@@ -77,13 +84,17 @@
     
 Requires Bloody Harvest
 
-    BL2(BwAAAABv0AUEAAkAEBBQqAPg////////////////////fwPg) - Red/100% Damage Increase
+    Red/100% Damage Increase
+    BL2(BwAAAABv0AUEAAkAEBBQqAPg////////////////////fwPg)
 
-    BL2(BwAAAADBrAUFAAsAEBBQKATg////////////////////vwTg) - Blue/Ammo Regeneration
+    Blue/Ammo Regeneration
+    BL2(BwAAAADBrAUFAAsAEBBQKATg////////////////////vwTg)
 
-    BL2(BwAAAAAhAQUCAAcAEBBQ6ALg////////////////////PwPg) - Green/20% Damage Reduction/Health Regeneration.
+    Green/20% Damage Reduction/Health Regeneration
+    BL2(BwAAAAAhAQUCAAcAEBBQ6ALg////////////////////PwPg)
 
-    BL2(BwAAAACTbQUDAAUAEBBQ6APg////////////////////fwTg) - Yellow/80% Movement Bonus
+    Yellow/80% Movement Bonus
+    BL2(BwAAAACTbQUDAAUAEBBQ6APg////////////////////fwTg)
 
 # Wisp Jar
 
@@ -91,13 +102,17 @@ Requires Bloody Harvest
 
 Requires Bloody Harvest
 
-    BL2(BwAAAAAuIAUAAAEAEBBQaAHg/////////////////////wGgAOA=) - Blue/Shock
+    Blue/Shock
+    BL2(BwAAAAAuIAUAAAEAEBBQaAHg/////////////////////wGgAOA=)
 
-    BL2(BwAAAACpWAUAAAEAEBBQKAHg////////////////////PwKgAOA=) - Red/Fire
+    Red/Fire
+    BL2(BwAAAACpWAUAAAEAEBBQKAHg////////////////////PwKgAOA=)
 
-    BL2(BwAAAABnyQUAAAEAEBBQ6ADg////////////////////vwGgAOA=) - Yellow/Explosive
+    Yellow/Explosive
+    BL2(BwAAAABnyQUAAAEAEBBQ6ADg////////////////////vwGgAOA=)
 
-    BL2(BwAAAACQ6wUAAAEAEBBQKADg////////////////////fwCgAOA=) - Green/Corrosive
+    Green/Corrosive
+    BL2(BwAAAACQ6wUAAAEAEBBQKADg////////////////////fwCgAOA=)
 
 # Ammo - Assault Rifle
 
