@@ -1,5 +1,7 @@
 # Wanderlust
 
+![](./assets/pistol-wanderlust.jpeg)
+
     Potent Wanderlust (Damage)
     BL2(hwAAAAAvuQqGB4AAEYFEKgCEhREA8AHG//8JGB0w/v8LAAyDAQDw) fire
     BL2(hwAAAADIPwqGB4AAEYFEKgCEhREA8AHG/38KGB0w/v8LAAyDAQDw) shock
@@ -44,6 +46,8 @@
 
 
 # Stalker
+
+![](./assets/pistol-stalker.jpeg)
 
     Purging Stalker (Damage)
     BL2(hwAAAADoZAiERwAAC4FEHgCMhYEAkAHG/38JGB0w/v9rACSDoQDw) 
@@ -96,6 +100,8 @@
 
 # Unforgiven
 
+![](./assets/pistol-unforgiven.jpeg)
+
     Dastardly Unforgiven (Damage)
     BL2(hwAAAABdQwiHhwAAB4FERgCMheEAEALG/////x0w/v9vAASDAQHw)
 
@@ -118,6 +124,8 @@
     BL2(hwAAAACTJwiHhwAAB4FERgCMheEAEALG/////x4w/v9vAEyDAQHw)
 
 # Stinger
+
+![](./assets/pistol-stinger.jpeg)
 
     Righteous Stinger (Accuracy)
     BL2(hwAAAACnlQmEJ4ALC4FE6sOIhREAkAHG//8KGBkw/v8vAASCIQDw) Corrosive
@@ -170,6 +178,8 @@
 
 # Infection
 
+![](./assets/pistol-infection.jpeg)
+
     Potent Infection (Damage)
     BL2(hwAAAABKnwSGRwMJEYFEusOAhREK8gHG//8KGB0w/v+XggyDoQny) corrosive
 
@@ -193,6 +203,8 @@
 
 # Devastator
 
+![](./assets/pistol-penetrating-devastator.jpeg)
+
     Hard Devastator (Damage)
     BL2(hwAAAAC5pQGFhwEACYFE2sOIhQEC0AHG/////x0w/v/LARyDEQLw)
 
@@ -215,6 +227,8 @@
     BL2(hwAAAADYWwGFhwEACYFE2sN4hQEC0AHG/////x4w/v/LAWSDEQLw)
 
 # Infinity
+
+![](./assets/pistol-infinity.jpeg)
 
     Purging Infinity (Damage)
     BL2(hwAAAAAMFACE5wRACoFE6sOIhYEQgwHG/38JGB0w/v8rxCCDgRHj)
@@ -266,6 +280,8 @@
 
 # Thunderball Fists
 
+![](./assets/pistol-thunderball-fists.jpeg)
+
     Potent Thunderball Fists (Damage)
     BL2(hwAAAADmTwCGJwVAEIFEusOIhUEQ4wHG/38KGB0w/v8XxAiDYRHj) shock
 
@@ -288,6 +304,8 @@
     BL2(hwAAAAAHqACGJwVAEIFEusOAhUEQ4wHG/38KGBww/v8XxMCCYRHj) shock
 
 # Hornet
+
+![](./assets/pistol-hornet.jpeg)
 
     Neutralizing Hornet (Damage)
     BL2(hwAAAAB0OQCBxwRABIFEmsOIheEPowHG//8KGB0w/v//w/CCMRHj) corrosive
@@ -312,6 +330,8 @@
 
 # Gub
 
+![](./assets/pistol-gub.jpeg)
+
     Murduerer's Gub (Damage)
     BL2(hwAAAABq1gCAhwRAAoFEisOIhcEPQwHG//8KGB0w/v/3w+iCERHj)
 
@@ -334,6 +354,8 @@
     BL2(hwAAAAB0JgCAhwRAAoFEisNYhcEPQwHG//8KGBww/v/3w6CCERHj)
 
 # Unkempt Harold
+
+![](./assets/pistol-unkempt-harold.jpeg)
 
     Hard Unkempt Harold (Damage)
     BL2(hwAAAACqRQCFBwVACIFE2sOIhWEQwwHG/////x0w/v8fxBiDcRHj)
@@ -358,6 +380,8 @@
 
 # Maggie
 
+![](./assets/pistol-maggie.jpeg)
+
     Dastardly Maggie (Damage)
     BL2(hwAAAABnGgCHRwVABoFEssOIhSEQAwLG/////x0w/v8PxACDURHj)
 
@@ -381,6 +405,8 @@
 
 # Logan's Gun
 
+![](./assets/pistol-logan-gun.jpeg)
+
     Win-Win Logan's Gun (Damage)
     BL2(hwAAAAB3TwCCZwVADIFEosOIhQEQIwLG//8JGB0w/v8HxPiCQRHj) fire
 
@@ -403,6 +429,8 @@
     BL2(hwAAAABnzgCCZwVADIFEosOQhQEQIwLG//8JGBgw/v8HxIiBQRHj) fire
 
 # Gunerang
+
+![](./assets/pistol-gunerang.jpeg)
 
     Super Gunerang (Damage)
     BL2(hwAAAABL6wCDpwRADoFEysOIhbEQYwHG/38JGB0w/v8zxBCDsRHj) 
@@ -455,6 +483,8 @@
 
 # Dahlminator
 
+![](./assets/pistol-dahiminator.jpeg)
+
     Neutralizing Dahlminator (Damage)
     BL2(hwAAAABTjACBRwZABIFEmsOIhREUowHG//8KGB0w/v/nxPCCgRTj) corrosive
 
@@ -477,6 +507,8 @@
     BL2(hwAAAAAB0wCBRwZABIFEmsNwhREUowHG//8KGBww/v/nxKiCgRTj) corrosive
 
 # Gwen's Head
+
+![](./assets/pistol-gwen-head.jpeg)
 
     Neutralizing Gwen's Head (Damage)
     BL2(hwAAAACxXQCBJwZABIFEksNghfETowHG/38JGB0w/v/jxPCCYRTj)
@@ -536,6 +568,8 @@
 
 # Teapot
 
+![](./assets/pistol-teapot.jpeg)
+
     Neutralizing Teapot (Damage)
     BL2(hwAAAADiiwCBBwZABIFE7sSIhdEUowHG//8KGB0w/v/fxPCCQRTj) corrosive
 
@@ -561,6 +595,8 @@
     BL2(hwAAAACw1ACBBwZABIFE7sRwhdEUowHG//8KGBww/v/fxKiCQRTj) corrosive
 
 # Fibber
+
+![](./assets/pistol-fibber.jpeg)
 
     Win-Win Fibber (Damage) Barrel 3
     BL2(hwAAAAALhwCC5wVADIFEbsOIhbEUIwLG/38JGB0w/v/bxPiCcRTj)
@@ -732,6 +768,8 @@
 
 # Lady Fist
 
+![](./assets/pistol-lady-fist.jpeg)
+
     Win-Win Lady Fist (Damage)
     BL2(hwAAAACgdwCCZwJADIFEbsOIhUENIwLG/38JGB0w/v9Xw/iCoQ3j)
     BL2(hwAAAABH8QCCZwJADIFEbsOIhUENIwLG//8KGB0w/v9Xw/iCoQ3j) corrosive
@@ -789,6 +827,8 @@
     BL2(hwAAAAD91QCCZwJADIFEbsOQhUENIwLG/38LGBww/v9Xw7CCoQ3j) slag
 
 # Rubi
+
+![](./assets/pistol-rubi.jpeg)
 
     Potent Rubi (Damage)
     BL2(hwAAAAC3yACGBwJAEIFEMsOIhdEM4wHG/////x0w/v87wwiDYQ3j)
@@ -848,6 +888,8 @@
 
 # Tinderbox
 
+![](./assets/pistol-tinderbox.jpeg)
+
     Murduerer's Tinderbox (Damage)
     BL2(hwAAAAC6HgCAZwZAAoFEgsOIhQEUQwHG//8JGB0w/v/rxOiCMRTj) fire
 
@@ -873,6 +915,8 @@
     BL2(hwAAAACk7gCAZwZAAoFEgsNYhQEUQwHG//8JGBww/v/rxKCCMRTj) fire
 
 # Veritas
+
+![](./assets/pistol-veritas.jpeg)
 
     Purging Veritas (Damage)
     BL2(hwAAAAAV2wCEhwVACoFE4sOIheETgwHG/38JGB0w/v/PxCCDIRTj)
@@ -931,6 +975,9 @@
     BL2(hwAAAAC6xACEhwVACoFE4sNoheETgwHG/38LGBww/v/PxNiCIRTj) slag
 
 # Judge
+
+![](./assets/pistol-judge.jpeg)
+
     Dastardly Judge (Damage)
     BL2(hwAAAAAPagCHxwVABoFEQsOIhcETAwLG/////x0w/v/XxACDURTj)
 
@@ -956,6 +1003,9 @@
     BL2(hwAAAACr8QCHxwVABoFEQsOIhcETAwLG/////xww/v/XxLiCURTj)
 
 # Law
+
+![](./assets/pistol-law.jpeg)
+
     Ornery Law (Melee / Jakobs Grip)
     BL2(hwAAAABx6wCHRwJABoFEQsOIhRENIwHG/////9Iw/v9Pw4hAgg3j) 
 
@@ -975,6 +1025,8 @@
     BL2(hwAAAABcewCHRwJABoFEQsNohRENIwHG/////9Iw/v9Pw/hAgg3j)
 
 # Grog Nozzle
+
+![](./assets/pistol-grog-nozzle.jpeg)
 
     Punctilious Grog Nozzle (Accuracy)
     BL2(hwAAAAA0fwmGJwAMEYFEMsOIhTGA8AHG/38LGBkw/v8XIOyBQYDw)
@@ -998,6 +1050,8 @@
     BL2(hwAAAABwjgmGJwAMEYFEMsOIhTGA8AHG/38LGBsw/v8XIHyCQYDw)
 
 # Greed
+
+![](./assets/pistol-greed.jpeg)
 
     Dastardly Greed (Damage)
     BL2(hwAAAACP5QGHR4EDB4FEQsOIhVGB8P////8JGB0w/v9bIASDQYDw) fire
@@ -1025,6 +1079,8 @@
 
 # Little Evie
 
+![](./assets/pistol-little-evie.jpeg)
+
     Potent Little Evie (Damage)
     BL2(hwAAAAAzTwGGR4IDEYFEMsOIhfGC8AHG/38KGB0w/v/PIAyDsYLw)  shock
 
@@ -1051,6 +1107,8 @@
 
 # Pocket Rocket
 
+![](./assets/pistol-pocket-rocket.jpeg)
+
     Hard Pocket Rocket (Damage)
     BL2(hwAAAACh7AOFx4ANCYFE0sOIhSGB0AHG/////x0w/v9PIByDEYHw)
 
@@ -1076,6 +1134,8 @@
     BL2(hwAAAADAEgOFx4ANCYFE0sN4hSGB0AHG/////x4w/v9PIGSDEYHw)
 
 # Rex
+
+![](./assets/pistol-rex.jpeg)
 
     Dastardly Rex (Damage)
     BL2(hwAAAADhGwSHJ4AJB4FEQsOIhVGAEgLG/////x0w/v8boASDcYDy)
