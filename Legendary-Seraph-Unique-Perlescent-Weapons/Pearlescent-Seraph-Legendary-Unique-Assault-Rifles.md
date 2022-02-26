@@ -1,5 +1,7 @@
 # Bekah
 
+![](./assets/rifle-bekah.jpeg)
+
     Boss Bekah (Damage)
     BL2(hwAAAAABKwqCRoAAB4FEJgAcxHAAkAEDIob//xUY/v8jACzDYADw)
 
@@ -23,6 +25,8 @@
 
 # Sawbar
 
+![](./assets/rifle-sawbar.jpeg)
+
     Nassty Sawbar (Damage)
     BL2(hwAAAAAPuAiAJgEAA4FEfgAcxOABEAGDIQYHDBUY/v+fABzD0AHw)
 
@@ -45,6 +49,8 @@
     BL2(hwAAAABQNAiAJgEAA4FEfgAcxOABEAGDIQYHDBkY/v+fACzC0AHw)
 
 # Bearcat
+
+![](./assets/rifle-bearcat.jpeg)
 
     Attack Bearcat (Damage)
     BL2(hwAAAAC+AAiBBgEABYFEhgAcxGABMAHDIYYGDBUY/v9zACTDUAHw) none
@@ -97,6 +103,8 @@
 
 # Seeker
 
+![](./assets/rifle-seeker.jpeg)
+
     Nasty Seeker (Damage)
     BL2(hwAAAADIBQmDRoALCYFE1mIgxEAAcAFDIob//xUY/v8rADTDMADw)
 
@@ -120,6 +128,8 @@
 
 # Seraphim
 
+![](./assets/rifle-seraphim.jpeg)
+
     Attack Seraphim (Damage)
     BL2(hwAAAADjaAGBZgEABYFEamIYxOABMAHDIQYHDBUY/v/HASTD8AHw) fire
 
@@ -142,6 +152,8 @@
     BL2(hwAAAADJAAGBZgEABYFEamIQxOABMAHDIYb//xkY/v/HATTC8AHw) fire
 
 # Lead Storm
+
+![](./assets/rifle-lead-storm.jpeg)
 
     Ferocious Lead Storm (Damage)
     BL2(hwAAAADJNwSEZgMJC4FE3mIoxAAKUgGDIoYGDBUY/v+TgjzDsAny)
@@ -194,6 +206,8 @@
 
 # KerBlaster
 
+![](./assets/rifle-kerblaster.jpeg)
+
     Nasty Kerblaster (Damage)
     BL2(hwAAAAAQxgCDZgM/CIFE1mIYxPCLYQFDIob//xUY/v8DYzDDgIzh)
 
@@ -216,6 +230,8 @@
     BL2(hwAAAAAj3gCDZgM/CIFE1mIgxPCLYQFDIob//xQY/v8DY1DBgIzh)
 
 # Shredifier
+
+![](./assets/rifle-shredifier.jpeg)
 
     Ferocious Shredifier (Damage)
     BL2(hwAAAAAa7wCEhgM/CoFE3mIYxBCMQQGDIoYGDBUY/v8LYzjDoIzh)
@@ -268,6 +284,8 @@
 
 # Madhous!
 
+![](./assets/rifle-madhous.jpeg)
+
     Nassty Madhous! (Damage)
     BL2(hwAAAABxCwCABgM/AoFExmIYxJCLAQGDIYYGDBUY/v/rYhjDQIzh) none
     BL2(hwAAAAANcgCABgM/AoFExmIYxJCLAQGDIYYHDBUY/v/rYhjDQIzh) corrosive
@@ -319,6 +337,8 @@
 
 # Ogre
 
+![](./assets/rifle-ogre.jpeg)
+
     Nasty Ogre (Damage)
     BL2(hwAAAABA0wmDRgAMCYFE1mIYxGCAcAFDIob//xUY/v9HIDTDcIDw)
 
@@ -342,6 +362,8 @@
 
 # Hammer Buster
 
+![](./assets/rifle-buster.jpeg)
+
     Boss Hammer Buster (Damage)
     BL2(hwAAAACZeACCRgM/BoFEzmIYxNCLgQEDIob//xUY/v/7YijDcIzh) 
 
@@ -364,6 +386,8 @@
     BL2(hwAAAAB4rgCCRgM/BoFEzmIYxNCLgQEDIob//xgY/v/7YnDCcIzh)
 
 # Veruc
+
+![](./assets/rifle-veruc.jpeg)
 
     Attack Veruc (Damage)	
     BL2(hwAAAADE4gCBJgM/BIFEamIYxLCLIQHDIYYGDBUY/v/zYiDDYIzh)
@@ -416,6 +440,8 @@
 
 # Stomper
 
+![](./assets/rifle-stomper.jpeg)
+
     Boss Stomper (Damage)	
     BL2(hwAAAAB/yACCxgM/BoFEmmIYxCCNgQEDIob//xUY/v9HYyjDYI3h)
 
@@ -442,6 +468,8 @@
 
 # Evil Smasher
 
+![](./assets/rifle-smasher.jpeg)
+
     Nasty Evil Smasher (Damage)
     BL2(hwAAAAANTQCDpgM/CIFEimIYxFCNYQFDIob//xUY/v9DYzDDcI3h)
 
@@ -467,6 +495,8 @@
     BL2(hwAAAACdKQCDpgM/CIFEimIgxFCNYQFDIob//xkY/v9DY0DCcI3h)
 
 # Hail
+
+![](./assets/rifle-hail.jpeg)
 
     Ferocious Hail (Damage)
     BL2(hwAAAADJOQCERgI/CoFEkmIYxKCKQQGDIob//xUY/v+vYjjD4Irh)
@@ -526,6 +556,8 @@
 
 # Scorpio
 
+![](./assets/rifle-scorpio.jpeg)
+
     Attack Scorpio (Damage)
     BL2(hwAAAAAscACBhgE/BIFEemIYxMCJIQHDIYYGDBUY/v93YiDDgIrh)
     BL2(hwAAAABQCQCBhgE/BIFEemIYxMCJIQHDIYYHDBUY/v93YiDDgIrh) corrosive
@@ -584,6 +616,8 @@
 
 # Rapier
 
+![](./assets/rifle-rapier.jpeg)
+
     Ferocious Rapier (Damage)
     BL2(hwAAAAA25wGEZoIDC4FEkmIYxBCDUAGDIoYGDBUYZBDSIDzDwIHw)
     BL2(hwAAAABKngGEZoIDC4FEkmIYxBCDUAGDIoYHDBUYZBDSIDzDwIHw) corrosive
@@ -635,6 +669,8 @@
 
 # Stinkpot
 
+![](./assets/rifle-stinkpot.jpeg)
+
     Boss Stinkpot (Damage)
     BL2(hwAAAACcWQGCZoEDB4FEmmIYxHCBkAEDIoYHDBUY/v9jICzDoIHw) corrosive
 
@@ -661,6 +697,8 @@
 
 # Boom Puppy
 
+![](./assets/rifle-boom-puppy.jpeg)
+
     Nasty Boom Puppy (Damage)
     BL2(hwAAAABdxAODhoANCYFEimIYxJCAcAFDIob//xUY/v8zIDTDsIDw)
 
@@ -686,6 +724,8 @@
     BL2(hwAAAADNoAODhoANCYFEimIgxJCAcAFDIob//xkY/v8zIETCsIDw)
 
 # Kitten
+
+![](./assets/rifle-kitten.jpeg)
 
     Ferocious Kitten (Damage)
     BL2(hwAAAAAgYAOEBoANC4FEkmIYxACAUAGDIob//xUY/v8HIDzDIIDw)
@@ -745,6 +785,8 @@
 
 # Damned Cowboy
 
+![](./assets/rifle-damned-cowboy.jpeg)
+
     Boss Damned Cowboy (Damage)
     BL2(hwAAAABQTASCRoAJB4FEmmIYxICAkgEDIob//xUY/v8roCzDkIDy)
 
@@ -766,6 +808,8 @@
     BL2(hwAAAAANWgSCRoAJB4FEmmIYxICAkgEDIob//xkY/v8roDzCkIDy)
 
 # CHOPPER
+
+![](./assets/rifle-chopper.jpeg)
 
     Nassty CHOPPER (Damage)
     BL2(hwAAAAAv2QSApoAJA4FEgmIIxBCBEgGDIYYGDBUY/v9LoBzDMIHy)
