@@ -1,5 +1,7 @@
 # Carnage
 
+![](./assets/shotgun-carnage.jpeg)
+
     Casual Carnage (Projectile count)
     BL2(hwAAAABwmQoEaIAACYFEPgBMg+IAEAGKG5T//xAA//83ACyDwgDw)
 
@@ -22,6 +24,8 @@
     BL2(hwAAAAAdiAoEaIAACYFEPgBMg+IAEAGKG5T//xpQ/v83AJSBwgDw)
 
 # Butcher
+
+![](./assets/shotgun-butcher.jpeg)
 
     Practicable Butcher (Projectile Count)
     BL2(hwAAAACydggCaAAADYFEMgBUg7IAUAEKG5QKKBJQ/v9jABSD8gDw)
@@ -74,6 +78,8 @@
 
 # Omen
 
+![](./assets/shotgun-omen.jpeg)
+
     Swiss Omen (Melee)
     BL2(hwAAAABTVgkDaIALD4FEokJRg3IAUAHKG5QKKAxQ/v87AEyCYgDw)
     BL2(hwAAAAAvLwkDaIALD4FEokJRg3IAUAHKG5QLKAxQ/v87AEyCYgDw) Corrosive
@@ -118,6 +124,8 @@
 
 # Retcher
 
+![](./assets/shotgun-retcher.jpeg)
+
     Gentle Retcher (Projectile Count)
     BL2(hwAAAABuegEDqAEAD4FEokJRgyIC8ADKG5QLKBJQ/v+/ASSDMgLw)
 
@@ -140,6 +148,8 @@
     BL2(hwAAAAAz8AEDqAEAD4FEokJBgyIC8ADKG5QLKBFQ/v+/AWyCMgLw)
 
 # Interfacer
+
+![](./assets/shotgun-interfacer.jpeg)
 
     Practicable Interfacer (Damage)
     BL2(hwAAAADiwQQCKAMJDYFEkkJZgyIK8v8/G5QKKBJQ/v+bghSDkgny)
@@ -192,6 +202,8 @@
 
 # Striker
 
+![](./assets/shotgun-striker.jpeg)
+
     Rustler's Striker (Projectile Count)
     BL2(hwAAAAAdvgAASINABoFEmkJRgwILJQEKHJT//xJQ/v/HQhmDkgvl)
 
@@ -214,6 +226,8 @@
     BL2(hwAAAAC44gAASINABoFEmkJRgwILJQEKHJT//wxQ/v/HQkGCkgvl)
 
 # Sledge's Shotgun
+
+![](./assets/shotgun-sledge-shotgun.jpeg)
 
     Sledge's Shotgun (Projectile Count)
     BL2(hwAAAACQswAB6IJAAoFEikJRg8IKxQBKG5QKKBJQ/v+3QrmFYgvl)
@@ -266,6 +280,8 @@
 
 # Flakker
 
+![](./assets/shotgun-flakker.jpeg)
+
     Casual Flakker (Projectile Count)
     BL2(hwAAAADpNAAEKINACIFEqkJRg0ILBQGKG5T//xJQ/v/XQimDsgvl)
 
@@ -288,6 +304,8 @@
     BL2(hwAAAAD2bAAEKINACIFEqkJJg0ILBQGKG5T//xFQ/v/XQnGCsgvl)
 
 # Conference Call
+
+![](./assets/shotgun-conference-call.jpeg)
 
     Practicable Conference Call (Projectile Count)
     BL2(hwAAAAAd1AACaINADIFEkkJRg+IKRQEKG5QKKBJQ/v+/QhGDggvl)
@@ -340,6 +358,8 @@
 
 # Deliverance
 
+![](./assets/shotgun-deliverance.jpeg)
+
     Gentle Deliverance (Projectile Count)
     BL2(hwAAAADGxwADCINADoFEokJRgyIL5QDKG5QKKBJQ/v/PQiGDogvl)
     BL2(hwAAAAC6vgADCINADoFEokJRgyIL5QDKG5QLKBJQ/v/PQiGDogvl) Corrosive
@@ -391,6 +411,8 @@
 
 # SWORDSPLOSION
 
+![](./assets/shotgun-swordsplosion.jpeg)
+
     Bad Touch SWORDSPLOSION (Melee)
     BL2(hwAAAADxVAkEiAAMCYFEqkJRg+KAUAGKG5T//xpQ/v8/IJSB0oDw)
 
@@ -413,6 +435,8 @@
     BL2(hwAAAADPhwkEiAAMCYFEqkJRg+KAUAGKG5T//xJQ/v8/ICyD0oDw)
 
 # Slow Hand
+
+![](./assets/shotgun-slow-hand.jpeg)
 
     Practicable Slow Hand (Projectile Count)
     BL2(hwAAAABXrQMCqIANDYFEkkJRg+KAUAEKG5T//xJQ/v8/IBSDooDw)
@@ -465,6 +489,8 @@
 
 # Triquetra
 
+![](./assets/shotgun-triquetra.jpeg)
+
     Rustler's Triquetra (Projectile Count)
     BL2(hwAAAADbFQAAKIJABoFErkBRg/IJJQEKHJT//xJQ/v+DQhmDEgrl)
 
@@ -490,6 +516,8 @@
     BL2(hwAAAAACdgAAKIJABoFErkBRg/IJJQEKHJT//xFQ/v+DQmGCEgrl)
 
 # Octo
+
+![](./assets/shotgun-octo.jpeg)
 
     Gentle Octo (Projectile Count)
     BL2(hwAAAADzGwADqINADoFEtkBRg9IM5QDKG5QKKBJQ/v8bQyGDgg3l)
@@ -549,6 +577,8 @@
 
 # Blockhead
 
+![](./assets/shotgun-blockhead.jpeg)
+
     Gentle Blockhead (Projectile Count)
     BL2(hwAAAAB0SwADyINADoFEtkBRg+IM5QDKGxQLKBJQ/v8fQyGDsg3l)
 
@@ -574,6 +604,8 @@
     BL2(hwAAAAApwQADyINADoFEtkBBg+IM5QDKGxQLKBFQ/v8fQ2mCsg3l)
 
 # Heartbreaker
+
+![](./assets/shotgun-heart-breaker.jpeg)
 
     Practicable Heart Breaker (Stability)
     BL2(hwAAAAC96QACyIBADIFEikBRg1ICpQAKGxQLKBJQ/v+bQBGDkgnl)
@@ -601,6 +633,8 @@
 
 # 1340 Shotgun
 
+![](./assets/shotgun-shotgun-1340.jpeg)
+
     Practicable Shotgun 1340 (Projectile Count)
     BL2(hwAAAAB9DwACqIBADIFEikBRgzICRQEKG5QKKBJQ/v+TQBGDggnl)
 
@@ -627,6 +661,8 @@
 
 # Tidal Wave
 
+![](./assets/shotgun-tidal-wave.jpeg)
+
     Rustler's Tidal Wave (Projectile Count)
     BL2(hwAAAACXZwAA6INABoFErkBRg/IMJQEKHJT//xJQ/v8jQxmDUg3l)
 
@@ -652,6 +688,8 @@
     BL2(hwAAAABOBAAA6INABoFErkBRg/IMJQEKHJT//xFQ/v8jQ2GCUg3l)
 
 # Dog
+
+![](./assets/shotgun-dog.jpeg)
 
     Assssult Dog (Projectile Count)
     BL2(hwAAAACZhQABSIRAAoFEnkBRgxINxQBKG5QKKBJQ/v8vQwmDog3l)
@@ -711,6 +749,8 @@
 
 # RokSalt
 
+![](./assets/shotgun-roksalt.jpeg)
+
     Assssult Roksalt (Projectile Count)
     BL2(hwAAAABA1wABKIRAAoFEnkBRg0INxQBKG5QKKBJQ/v8rQwmDcg3l)
     BL2(hwAAAAA8rgABKIRAAoFEnkBRg0INxQBKG5QLKBJQ/v8rQwmDcg3l) Corrosive
@@ -768,6 +808,8 @@
     BL2(hwAAAAB5QgABKIRAAoFEnkA5g0INxQBKG5QMKBFQ/v8rQ1GCcg3l) Slag
 
 # Jolly Roger
+
+![](./assets/shotgun-jolly-roger.jpeg)
 
     Assssult Jolly Roger (Projectile Count)
     BL2(hwAAAADl8gEByIEDA4FEnkBRgxKC0ABKG5QKKBJQ/v+LIAyDMoLw)
@@ -827,6 +869,8 @@
 
 # Orphan Maker
 
+![](./assets/shotgun-orphan-maker.jpeg)
+
     Rustler's Orphan Maker (Projectile Count)
     BL2(hwAAAAC5tQEAiIIDB4FErkBRg8KCMAEKHJT//xJQ/v+3IByD4oLw)
 
@@ -852,6 +896,9 @@
     BL2(hwAAAABg1gEAiIIDB4FErkBRg8KCMAEKHJT//xFQ/v+3IGSC4oLw)
 
 # Hydra
+
+![](./assets/shotgun-hydra.jpeg)
+
     Rustler's Hydra (Projectile Count)
     BL2(hwAAAABGxwQA6IAJB4FErkBRg0KBMgEKHJT//xJQ/v9XoByDYoHy)
 
@@ -878,6 +925,8 @@
 
 # Twister
 
+![](./assets/shotgun-twister.jpeg)
+
     Rustler's Twister (Projectile Count)
     BL2(hwAAAAAPigQACIEJB4FErkBRg4KBMgEKHBQMKBJQ/v9noByDcoHy)
 
@@ -903,6 +952,9 @@
     BL2(hwAAAADW6QQACIEJB4FErkBRg4KBMgEKHBQMKBFQ/v9noGSCcoHy)
 
 # Teeth of Terramorphous
+
+![](./assets/shotgun-teeth-of-terramorphous.jpeg)
+
     Assssult Teeth of Terramorphous (Projectile Count)
     BL2(hwAAAAAtKAABCIRAAoFEnkBRg8IMxQBKGxQLKBJQ/v8nQwmDYg3l)
 
@@ -928,6 +980,9 @@
     BL2(hwAAAACnyQABCIRAAoFEnkA5g8IMxQBKGxQLKBFQ/v8nQ1GCYg3l)
 
 # Landscaper
+
+![](./assets/shotgun-landscaper.jpeg)
+
     Casual Landscaper (Projectile Count)
     BL2(hwAAAAAB4QAEiINACIFEvkBRgwINBQGKG5T//xJQ/v8XQymDkg3l)
 

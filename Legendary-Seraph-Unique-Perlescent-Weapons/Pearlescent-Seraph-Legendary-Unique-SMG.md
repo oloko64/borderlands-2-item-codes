@@ -1,5 +1,7 @@
 # Avenger
 
+![](./assets/smg-avenger.jpeg)
+
     Hefty Avenger (Damage)
     BL2(hwAAAABIyAhEqAAAD4FEjgAcwUIC8AALChYGLBRY/v+LAATCIgHw) (Non-Elemental)
     BL2(hwAAAAD29AhEqAAAD4FEjgAcwUIC8AALCpYGLBRY/v+LAATCIgHw) (Fire)
@@ -44,6 +46,8 @@
 
 # Tattler
 
+![](./assets/smg-tattler.jpeg)
+
     BL2(hwAAAABs7QFA6AAAA4FExmIhwVIBEAFLChYGLBJY/v+7AYTBMgHw) (Non-Elemental)
     BL2(hwAAAADS0QFA6AAAA4FExmIhwVIBEAFLCpYGLBJY/v+7AYTBMgHw) (Fire)
     BL2(hwAAAACuqAFA6AAAA4FExmIhwVIBEAFLCpYHLBJY/v+7AYTBMgHw) (Shock)
@@ -51,6 +55,8 @@
     BL2(hwAAAADy9gFA6AAAA4FExmIhwVIBEAFLChYILBJY/v+7AYTBMgHw) (Slag)
 
 # Actualizer
+
+![](./assets/smg-actualizer.jpeg)
 
     Rightsizing Actualizer (Damage)
     BL2(hwAAAAAoOQFCCAEADYFEpmI5wXIBcAELCxYGLBRY/v+3AfTBggHw) (Non-Elemental)
@@ -96,6 +102,8 @@
 
 # Florentine
 
+![](./assets/smg-florentine.jpeg)
+
     Consummate Florentine (Damage)
     BL2(hwAAAAAwqAlDiIALEYFErmIxwYIAUAHLChYILBRY/v8zAPzBkgDw)
 
@@ -112,6 +120,8 @@
     BL2(hwAAAADAawlDiIALEYFErmIxwYIAUAHLChYILBdY/v8zAITCkgDw)
 
 # Slagga
+
+![](./assets/smg-slagga.jpeg)
 
     Murduring Slagga (Damage)
     BL2(hwAAAAAvawBAyAJBAoFExmIhwSKLBQFLCpb//xRY/v/PYuHB4ovl) (Non-Elemental)
@@ -138,6 +148,8 @@
     BL2(hwAAAABePQBAyAJBAoFExmIhwSKLBQFLChYILCBY/v/PYsHE4ovl) (Slag)
 
 # Emperor
+
+![](./assets/smg-emperor.jpeg)
 
     Stopping Emperor (Damage)
     BL2(hwAAAAA5RwBBCANBBIFEnmIpwUKLJQGLChYGLBRY/v/XYunBAozl) (Non-Elemental)
@@ -183,6 +195,8 @@
 
 # Bitch
 
+![](./assets/smg-bitch.jpeg)
+
     Rightsizing Bitch (Damage)
     BL2(hwAAAABuewBCSANBDIFEpmI5wWKLZQELCxYGLBRY/v/fYvHBEozl) (Non-Elemental)
     BL2(hwAAAADQRwBCSANBDIFEpmI5wWKLZQELC5YGLBRY/v/fYvHBEozl) (Fire)
@@ -227,6 +241,8 @@
 
 # HellFire
 
+![](./assets/smg-hellfire.jpeg)
+
     Consummate HellFire (Damage)
     BL2(hwAAAADdnABDKANBEIFErmIxwYKLRQHLCpb//xRY/v/nYvnBIozl) (Explosive)
     BL2(hwAAAADTswBDKANBEIFErmIxwYKLRQHLCpYGLBRY/v/nYvnBIozl) (Fire)
@@ -252,6 +268,8 @@
     BL2(hwAAAACewABDKANBEIFErmIxwYKLRQHLCpYGLBJY/v/nYpnBIozl) (Fire)
 
 # Baby Maker
+
+![](./assets/smg-baby-maker.jpeg)
 
     Hefty Baby Maker (Damage)
     BL2(hwAAAAB2nwBE6AJBDoFEvmIZwaKL5QALChYGLBRY/v/vYgHCMozl) (Non-Elemental)
@@ -297,6 +315,8 @@
 
 # Yellow Jacket
 
+![](./assets/smg-yellow-jacket.jpeg)
+
     Rightsizing Yellow Jacket (Damage)
     BL2(hwAAAAC53ARCiIAJDYFEpmI5weKAcgELC5b//xRY/v9DoPTB8oDy) (Explosive)
     BL2(hwAAAADLigRCiIAJDYFEpmI5weKAcgELC5YHLBRY/v9DoPTB8oDy) (Shock)
@@ -322,6 +342,8 @@
     BL2(hwAAAACG+QRCiIAJDYFEpmI5weKAcgELC5YHLBJY/v9DoJTB8oDy) (Shock)
 
 # Orc
+
+![](./assets/smg-orc.jpeg)
 
     Murduring Orc (Damage)
     BL2(hwAAAAAUIAlAqAAMA4FExmIhwSKBEAFLChYGLBRY/v9PIOTBAoHw) (Non-Elemental)
@@ -366,6 +388,8 @@
     BL2(hwAAAADVZQlAqAAMA4FExmIhwSKBEAFLChYILCBY/v9PIMTEAoHw) (Slag)
 
 # Bone Shredder
+
+![](./assets/smg-bone-shredder.jpeg)
 
     Murduring Bone Shredder (Damage)
     BL2(hwAAAABJngBACARBAoFExmIhwRKNBQFLChYGLBRY/v8zY+HBoo3l) (Non-Elemental)
@@ -418,6 +442,8 @@
 
 # Crit
 
+![](./assets/smg-crit.jpeg)
+
     Consummate Crit (Damage)
     BL2(hwAAAADhvAlDaAAMEYFErmIxwaKAUAHLCpb//xRY/v8zIPzBsoDw) (Non-Elemental)
     BL2(hwAAAACT6glDaAAMEYFErmIxwaKAUAHLCpYHLBRY/v8zIPzBsoDw) (Shock)
@@ -447,6 +473,8 @@
     BL2(hwAAAAA5UwlDaAAMEYFErmIxwaKAUAHLCpYHLBFY/v8zINzEsoDw) (Shock)
 
 # Good Touch
+
+![](./assets/smg-good-touch.jpeg)
 
     Consummate Good Touch (Damage)
     BL2(hwAAAACHeQBDaANBEIFErmIxweKMRQHLCpb//xRY/v8fY/nBco3l) (Non-Elemental)
@@ -478,6 +506,8 @@
 
 # Bad Touch
 
+![](./assets/smg-bad-touch.jpeg)
+
     Consummate Bad Touch (Damage)
     BL2(hwAAAAAAtABDqANBEIFErmIxwfKMRQHLCpb//xRY/v8nY/nBso3l) (Non-Elemental)
     BL2(hwAAAADM3gBDqANBEIFErmIxwfKMRQHLChYHLBRY/v8nY/nBso3l) (Corrosive)
@@ -507,6 +537,8 @@
     BL2(hwAAAABmZwBDqANBEIFErmIxwfKMRQHLChYHLBFY/v8nY9nEso3l) (Corrosive)
 
 # Sand Hawk
+
+![](./assets/smg-sand-hawk.jpeg)
 
     Stopping Sand Hawk (Damage)
     BL2(hwAAAAAVUwFByIIDBYFEcmIpwVKCMAGLChYGLBRY/v/fIOzBQoLw) (Non-Elemental)
@@ -558,6 +590,9 @@
     BL2(hwAAAABCCQFByIIDBYFEcmIpwVKCMAGLChYILBFY/v/fICTEQoLw) (Slag)
 
 # Lascaux
+
+![](./assets/smg-lascaux.jpeg)
+
     Stopping Lascaux (Damage)
     BL2(hwAAAAC/BQBB6ANBBIFEcmIpwQKNJQGLChYGLBRY/v8vY+nBYo3l)
 
@@ -580,6 +615,8 @@
     BL2(hwAAAAAj3gBB6ANBBIFEcmIpwQKNJQGLChYGLBFY/v8vY0FAYo3l)
 
 # Bane
+
+![](./assets/smg-bane.jpeg)
 
     Rightsizing Bane (Damage)
     BL2(hwAAAAAXjwBCSAFBDIFEdmI5wZKJZQELC5b//xRY/v9rYvHBAorl) (Non-Elemental)
@@ -632,6 +669,8 @@
 
 # Commerce
 
+![](./assets/smg-commerce.jpeg)
+
     Rightsizing Commerce (Damage)
     BL2(hwAAAACKdABCyANBDIFEdmI5wdKMZQELC5b//xRY/v8rY/HBgo3l) (Non-Elemental)
     BL2(hwAAAAD4IgBCyANBDIFEdmI5wdKMZQELC5YHLBRY/v8rY/HBgo3l) (Shock)
@@ -661,6 +700,8 @@
     BL2(hwAAAABQDwBCyANBDIFEdmI5wdKMZQELC5YHLBFY/v8rY/nDgo3l) (Shock)
 
 # Chulainn
+
+![](./assets/smg-chulainn.jpeg)
 
     Consummate Chulainn (Damage)
     BL2(hwAAAAD2vgBDiANBEIFEemIxwUKNRQHLCpb//xRY/v8jY/nBko3l) (Non-Elemental)
