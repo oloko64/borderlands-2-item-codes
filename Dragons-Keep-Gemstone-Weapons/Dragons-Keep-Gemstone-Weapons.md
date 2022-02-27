@@ -1,5 +1,7 @@
 # Quartz Assault Rifles
 
+![](./assets/dragonKeep-quartz-rifle.jpeg)
+
     Quartz Ass Beeeter!
     BL2(hwAAAAAPSgmAxgIMA9HrxWIYxDCAAQGDIYYHDBUY/v+7IFxBKIPh)
     BL2(hwAAAACxdgmAxgIMA9HrxWIYxDCAAQGDIQYHDBUY/v+7IFxBKIPh)
@@ -43,6 +45,8 @@
     BL2(hwAAAACadwmAxgIMA9HrxWIYxGCAAQGDIYYIDBUY/v+7IFxByIPh)
 
 # Emerald Assault Rifles
+
+![](./assets/dragonKeep-emerald-rifle.jpeg)
 
     Emerald Defender
     BL2(hwAAAAClrAmBhgMMBdHraWIYxDCAIQHDIYYHDBUY/v/TICxBOIPh)
@@ -88,6 +92,8 @@
 
 # Citrine Assault Rifles
 
+![](./assets/dragonKeep-citrine-rifle.jpeg)
+
     Citrine Rifle
     BL2(hwAAAAB6ZAmCpgMMB9HrzWIYxBCAgQEDIob//xUY/v/XINxASInh)
 
@@ -108,6 +114,8 @@
 
 # Rock Assault Rifles
 
+![](./assets/dragonKeep-rock-rifle.jpeg)
+
     Rock Rifle
     BL2(hwAAAAAWfAmD5gIMCdHr1WIYxBCAYQFDIob//xUY/v+/IORASInh)
 
@@ -126,7 +134,9 @@
     Rock Spitter
     BL2(hwAAAACf3QmD5gIMCdHr1WIYxGCAYQFDIob//xUY/v+/IORA+IPh)
 
-# Garnet
+# Garnet Assault Rifles
+
+![](./assets/dragonKeep-garnet-rifle.jpeg)
 
     Garnet Guerilla
     BL2(hwAAAAAQLgmExgMMC9Hr3WIYxDCAQQGDIoYHDBUY/v/bIExBaIPh)
@@ -171,6 +181,8 @@
     BL2(hwAAAADNuwmExgMMC9Hr3WIYxGCAQQGDIoYIDBUY/v/bIExBCITh)
 
 # Garnet Pistols
+
+![](./assets/dragonKeep-garnet-pistol.jpeg)
 
     Garnet Fighter
     BL2(hwAAAAAwjwmEJwIMC9Hr6cOIhXEAgwHG//8KGB0w/v+fIExB2Afj)
@@ -229,6 +241,8 @@
     BL2(hwAAAAAHuwmEJwIMC9Hr6cOIhTEAgwHG/38LGB0w/v+fIExB2Ajj)
 
 # Diamond Pistols
+
+![](./assets/dragonKeep-diamond-pistol.jpeg)
 
     Diamond Spiker (E-Tech)
     BL2(hwAAAAD0UQmCxwEMDdHrocOIhZEOIwLG//8KGB0w/v+PIMxA2BDj)
@@ -301,6 +315,9 @@
     BL2(hwAAAABd2QmCxwEMDdHrocOIhTEAIwLG/38LGB0w/v+PIMxAiAjj)
 
 # Quartz Pistols
+
+![](./assets/dragonKeep-quartz-pistol.jpeg)
+
     Quartz Ass Beeter!
     BL2(hwAAAABp7QmARwIMA9HricOIhXEAQwHG//8KGB0w/v+jIFxBaAfj)
     BL2(hwAAAAAwVwmARwIMA9HricOIhXEAQwHG//8JGB0w/v+jIFxBaAfj)
@@ -358,6 +375,8 @@
     BL2(hwAAAADx2QmARwIMA9HricOIhTEAgwHG/38LGB0w/v+jIFxBaAfj)
 
 # Emerald Pistols
+
+![](./assets/dragonKeep-emerald-pistol.jpeg)
 
     Emerald Peacemaker
     BL2(hwAAAACY0gmB5wEMBdHrmcOIhXEAowHG//8KGB0w/v+TICxBeAfj)
@@ -417,6 +436,8 @@
 
 # Citrine Pistols
 
+![](./assets/dragonKeep-citrine-pistol.jpeg)
+
     Citrine Iron
     BL2(hwAAAABAvQmHhwEMB9HrscOIhXEAAwLG/////x0w/v+DINxAmAfj)
 
@@ -440,6 +461,8 @@
     Aquamarine Pistols
 
 # Aquamarine Pistols
+
+![](./assets/dragonKeep-aquamarine-pistol.jpeg)
 
     Aquamarine Torment
     BL2(hwAAAAAOngmGpwEMEdHrucOIhXEA4wHG//8KGB0w/v+LINRAqAfj)
@@ -490,6 +513,8 @@
     BL2(hwAAAAA5qgmGpwEMEdHrucOIhTEA4wHG/38LGB0w/v+LINRAqAjj)
 
 # Cubic Zerconia Pistols
+
+![](./assets/dragonKeep-cubic-zerconia-pistol.jpeg)
 
     Cubic Zerconia Power Shot
     BL2(hwAAAAAXJAmDBwIMD9HrycOIhXEAYwHG//8KGB0w/v+bIFRBuAfj)
@@ -549,6 +574,8 @@
 
 # Rock Pistols
 
+![](./assets/dragonKeep-rock-pistol.jpeg)
+
     Rock Rod
     BL2(hwAAAABOsgmFZwEMCdHr2cOIhXEAwwHG/////x0w/v+HIORAyAfj)
 
@@ -574,6 +601,8 @@
     BL2(hwAAAAC7wwmFZwEMCdHr2cOIhTEAwwHG/////x0w/v+HIORAyAjj)
 
 # Diamond Shotguns
+
+![](./assets/dragonKeep-diamond-shotgun.jpeg)
 
     Diamond Thinking
     BL2(hwAAAACrWQkCKAEMDdHrkUJRgzIARQEKG5QLKBJQ/v93IMxAmAXl)
@@ -612,6 +641,8 @@
 
 # Cubic Zerconia Shotguns
 
+![](./assets/dragonKeep-cubic-zerconia-shotgun.jpeg)
+
     Cubic Zerconia Sportsman
     BL2(hwAAAADlAAkDKAMMD9HroUJRgzIA5QDKG5QLKBJQ/v/HIFRBuAXl)
     BL2(hwAAAABbPAkDKAMMD9HroUJRgzIA5QDKGxQLKBJQ/v/HIFRBuAXl)
@@ -649,6 +680,8 @@
 
 # Quartz Shotguns
 
+![](./assets/dragonKeep-quartz-shotgun.jpeg)
+
     Quartz longer ragne kilier
     BL2(hwAAAABMJgkBqAIMA9HriUJRgzIAxQBKG5QLKBJQ/v+3IFxBiAXl)
     BL2(hwAAAADyGgkBqAIMA9HriUJRgzIAxQBKGxQLKBJQ/v+3IFxBiAXl)
@@ -685,6 +718,8 @@
     BL2(hwAAAACEEwkBqAIMA9HriUJRg4ICxQBKG5QMKBJQ/v+3IFxBqAnl)
 
 # Rock Shotguns
+
+![](./assets/dragonKeep-rock-shotgun.jpeg)
 
     Rock Ravager
     BL2(hwAAAACx/gkESAEMCdHrqUJRg4ICBQGKG5T//xpQ/v9/IORA6Anl)
@@ -733,6 +768,8 @@
 
 # Citrine Shotguns
 
+![](./assets/dragonKeep-citrine-shotgun.jpeg)
+
     Citrine Bushwack
     BL2(hwAAAACTpAkA6AAMB9HrmUJRgxIAJQEKHJT//xJQ/v97INxAWAfl)
 
@@ -749,6 +786,8 @@
     BL2(hwAAAACijgkA6AAMB9HrmUJRg4ICJQEKHJT//xJQ/v97INxAyAnl)
 
 # Emerald SMG's
+
+![](./assets/dragonKeep-emerald-smg.jpeg)
 
     Emerald Fox
     BL2(hwAAAABszAlBCAMMBdHrnWIxwTKAJQGLChYHLBRY/v/DICxBOIXl)
@@ -787,6 +826,8 @@
 
 # Diamond SMG's
 
+![](./assets/dragonKeep-diamond-smg.jpeg)
+
     Diamond Presence
     BL2(hwAAAAAlwwlCaAMMDdHrpWIxwTKAZQELCxYHLBRY/v/PIMxASIXl)
     BL2(hwAAAADnhglCaAMMDdHrpWIxwTKAZQELC5YGLBRY/v/PIMxASIXl)
@@ -823,6 +864,8 @@
     BL2(hwAAAABJ6glCaAMMDdHrpWIxwRKAZQELCxYILBRY/v/PIMxAKInl)
 
 # Quartz SMG's
+
+![](./assets/dragonKeep-quartz-smg.jpeg)
 
     Quartz rokgun
     BL2(hwAAAADmYAlAiAIMA9HrxWIxwTKABQFLChYHLBRY/v+zIFxBKIXl)
@@ -861,6 +904,8 @@
 
 # Aguamarine SMG's
 
+![](./assets/dragonKeep-aquamarine-smg.jpeg)
+
     Aquamarine Trance
     BL2(hwAAAAB+CQlDCAEMEdHrrWIxwTKARQHLChYHLBRY/v9bINRAWIXl)
     BL2(hwAAAAC8TAlDCAEMEdHrrWIxwTKARQHLCpYGLBRY/v9bINRAWIXl)
@@ -892,6 +937,8 @@
     BL2(hwAAAADZgwlDCAEMEdHrrWIxwRKARQHLChYILBRY/v9bINRASInl)
 
 # Cubic Zerconia SMG's
+
+![](./assets/dragonKeep-cubic-zerconia-smg.jpeg)
 
     Cubic Zerconia Special
     BL2(hwAAAACJtglESAMMD9HrvWIxwTKA5QALChYHLBRY/v/LIFRBaIXl)
@@ -930,6 +977,8 @@
 
 # Emerald Snipers
 
+![](./assets/dragonKeep-emerald-sniper.jpeg)
+
     Emerald Terror
     BL2(hwAAAADQIgmBKAQMBdHrdYJZAAMBZgXMBBgcMGRg/v/nICxB2AHm)
     BL2(hwAAAAAfLwmBKAQMBdHrdYJZAAMBZgXMBBgbMGRg/v/nICxB2AHm)
@@ -966,6 +1015,8 @@
     BL2(hwAAAAAYoQmBKAQMBdHrdYJZACMBZgXMBJgcMGRg/v/nICxBiAHm)
 
 # Diamond Snipers
+
+![](./assets/dragonKeep-diamond-sniper.jpeg)
 
     Diamond Policy
     BL2(hwAAAAC1fwmACAQMDdHrbYJZAAMB5gUMBRgcMGRg/v/jIMxA6AHm)
@@ -1004,6 +1055,8 @@
 
 # Citrine Snipers
 
+![](./assets/dragonKeep-citrine-sniper.jpeg)
+
     Citrine Muckamuck
     BL2(hwAAAAD4UQmE6AMMB9HrgYJZAAMBxgVMBZj//2Rg/v/fINxA+AHm)
 
@@ -1020,6 +1073,8 @@
     BL2(hwAAAACO7gmE6AMMB9HrgYJZACMBxgVMBZj//2Rg/v/fINxAqAHm)
 
 # Garnet Snipers
+
+![](./assets/dragonKeep-garnet-sniper.jpeg)
 
     Garnet Horrorshow
     BL2(hwAAAAByVwmCSAQMC9HrmYJZAAMBhgXMBRgcMGRg/v/rIExBGALm)
