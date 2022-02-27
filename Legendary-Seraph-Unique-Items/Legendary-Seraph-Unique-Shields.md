@@ -1,16 +1,24 @@
 # Antagonist
 
+![](./assets/shield-antagonist.jpeg)
+
     BL2(BwAAAADutgkBFg+wEBFIJAIEBcQHRAHj//////////8A4/8/AeM=)
 
 # Blockade
+
+![](./assets/shield-blockade.jpeg)
 
     BL2(BwAAAAAPbQkAFg2w8BFIJAIEBcQHBADj/////////38A4/+/AOM=)
 
 # Evolution
 
+![](./assets/shield-evolution.jpeg)
+
     BL2(BwAAAAAJEAEAACcA8BFIpAGEBMQHhADg/////////78B4P8/AOA=)
 
 # Hoplite
+
+![](./assets/shield-hoplite.jpeg)
 
     Hoplite
     BL2(BwAAAACEDwMLDRvAEBJIZAJEAgQIhBzE/////////78P4A+gOsQ=)
@@ -19,6 +27,8 @@
     BL2(BwAAAAAnoQMLDRvAEBJIZAJEAoQHhBzE/////////78P4A+gOsQ=)
 
 # Pun-chee
+
+![](./assets/shield-pun-chee.jpeg)
 
     Pun-chee
     BL2(BwAAAAD4+QMDDQfAMBBIpAGEBMQHRAjE/////////38FoAHgAeA=)
@@ -37,6 +47,8 @@
 
 # Big Boom Blaster
 
+![](./assets/shield-big-boom-blaster.jpeg)
+
     Big Boom Blaster
     BL2(BwAAAABuOQMMDRnAkBBIpAGEBMQHxA7g/////////38PIA8gKsQ=)
 
@@ -53,6 +65,8 @@
     BL2(BwAAAADXKQMMDRnAkBBIpAGEBIQHxA7g/////////38PIA8gKsQ=)
 
 # Sponge
+
+![](./assets/shield-sponge.jpeg)
 
     Sponge
     BL2(BwAAAADdTAMADQHAsBBIpAGEBMQHhBjE/////////78EYAAgAOA=)
@@ -71,6 +85,8 @@
 
 # Impaler
 
+![](./assets/shield-impaler.jpeg)
+
     Impaler
     BL2(BwAAAAByJAAZEXqgAxFIpAGEBMQHhFjE/////////39YxP//WcQ=)
 
@@ -78,6 +94,8 @@
     BL2(BwAAAAAF9QAZEXqgAxFIpAGEBMQGhFjE/////////39YRA7EWcQ=)
 
 # Hide of Terramorphous
+
+![](./assets/shield-hide-of-terramorphous.jpeg)
 
     Hide of Terramorphous
     BL2(BwAAAABe7QAiEcSgIxBIpAGEBMQHRGvE/////////z9txP//bsQ=)
@@ -96,17 +114,25 @@
 
 # Neogenator
 
+![](./assets/shield-neogenator.jpeg)
+
     BL2(BwAAAADh1wAVEWSg4xFIpAGEBMQHhFbE/////////z9WxP9/WsQ=)
 
 # The Transformer
+
+![](./assets/shield-the-transformer.jpeg)
 
     BL2(BwAAAABsNAASEVKgoxBIpAGEBIRUxFTE/////////39UxP+/WcQ=)
 
 # The Sham
 
+![](./assets/shield-the-sham.jpeg)
+
     BL2(BwAAAADV1QATEVSgoxBIpAGEBMQHRFXE/////////z9VxP9/WcQ=)
 
 # Flame of the Firehawk
+
+![](./assets/shield-flame-of-the-firehawk.jpeg)
 
     Flame of the Firehawk
     BL2(BwAAAADodQABEQSgAxFIpAGEBMQHBA/E/////////38PxP+/F8Q=)
@@ -115,6 +141,8 @@
     BL2(BwAAAACEEwABEQSgAxFIpAGEBAQHBA/E/////////38PhA6EF8Q=)
 
 # Whiskey Tango Foxtrot
+
+![](./assets/shield-whiskey-tango-foxtrot.jpeg)
 
     Whiskey Tango Foxtrot
     BL2(BwAAAACVlwAUEV6gQxBIpAGEBMQHxFXE/////////79VxP8/WsQ=)
@@ -130,6 +158,8 @@
 
 # Fabled Tortoise
 
+![](./assets/shield-tortoise.jpeg)
+
     Fabled Tortoise
     BL2(BwAAAABdiAAXEXCgAxJIZAJEAgQIhFfE/////////39XxP8/W8Q=)
 
@@ -138,6 +168,8 @@
 
 # Black Hole
 
+![](./assets/shield-black-hole.jpeg)
+
     Black Hole
     BL2(BwAAAADyFQAYEXKgAxFIpAGEBMQHBFjE//////////9XxP+/WsQ=)
 
@@ -145,6 +177,8 @@
     BL2(BwAAAADiKwAYEXKgAxFIpAGEBEQHBFjE//////////9XxA2EWsQ=)
 
 # The Bee
+
+![](./assets/shield-the-bee.jpeg)
 
     The Bee
     BL2(BwAAAABDTAAWEWqgwxBI5AGEBIQGBFfE//////////9WxP//WsQ=)
@@ -163,6 +197,8 @@
 
 # The Cradle
 
+![](./assets/shield-the-cradle.jpeg)
+
     The Cradle
     BL2(BwAAAACpmwAaEX6g4xBIpAGEBIQGBFnE//////////9YxP9/W8Q=)
 
@@ -180,9 +216,13 @@
 
 # Cracked Sash
 
+![](./assets/shield-cracked-sash.jpeg)
+
     BL2(BwAAAABx7gAeEbKg4xBIJAIEBcQHRG7E/////////z8jxP+/W8Q=)
 
 # Deadly Bloom
+
+![](./assets/shield-deadly-bloom.jpeg)
 
     Deadly Bloom
     BL2(BwAAAAD8uQAJERaggxBIpAGEBMQHBCTE//////////8jxP//R8Q=)
@@ -191,6 +231,8 @@
     BL2(BwAAAABdKwAJERaggxBIpAGEBIQHBCTE//////////8jBA7ER8Q=)
 
 # Love Thumper
+
+![](./assets/shield-love-thumper.jpeg)
 
     Love Thumper
     BL2(BwAAAABnPgAhEcigIxBIpAGEBMQHxG3E/////////z9nxP8/b8Q=)
@@ -209,13 +251,19 @@
 
 # Captain Blade's Manly Man Shield
 
+![](./assets/shield-man-shield.jpeg)
+
     BL2(BwAAAABWWAEAFwHokBBIJAIEBcQHRADj/////////z8A4w==)
 
 # The Rough Rider
 
+![](./assets/shield-the-rough-rider.jpeg)
+
     BL2(BwAAAABloAQAAwEYcBBIpAGEBMQHRADg/////////z8A4A==)
 
 # 1340 Shield
+
+![](./assets/shield-1340-shield.jpeg)
 
     Maximized 1340 Shield
     BL2(BwAAAAD8sAAKERigoxBIpAGEBMQHRCTE/////////z8YBDYESMQ=)
@@ -234,9 +282,13 @@
 
 # Pot O'Gold
 
+![](./assets/shield-pot-gold.jpeg)
+
     BL2(BwAAAAClZQAkEeSgIxBIZAJEBQQIRG3E/////////39nxP+/b8Q=)
 
 # Aequitas
+
+![](./assets/shield-aequitas.jpeg)
 
     Aequitas
     BL2(BwAAAABw/AAlEeqgoxBIpAGEBMQHhGzE/////////z8YxP//b8Q=)
@@ -254,6 +306,8 @@
     BL2(BwAAAADRbgAlEeqgoxBIpAGEBIQHhGzE/////////z8YBA7Eb8Q=)
 
 # Order
+
+![](./assets/shield-order.jpeg)
 
     Order
     BL2(BwAAAAB6SgAgEcagIxBIpAGEBMQHhG3E/////////z8AxP+/bsQ=)
