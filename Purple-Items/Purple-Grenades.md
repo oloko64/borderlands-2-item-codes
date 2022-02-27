@@ -1,5 +1,7 @@
 # Transfusion Grenades
 
+![](./assets/grenade-transfusion.jpeg)
+
     Homing
     BL2(BwAAAAAu4wABDzboABFIJBsDEIMdgwEDDoMOw/9/HYMVAx7DLcM=)
     BL2(BwAAAAC7EgABDzboABFIJBsDEIMdAwsDDoMOw/9/HYMVAx6DLcM=)(Corrosive)
@@ -50,6 +52,8 @@
     BL2(BwAAAABZLQABDzboABFIJBsDD4MdgwsDDoMOw/9/HYMVgyCDLsM=)(Slag)
 
 # Standard Grenades
+
+![](./assets/grenade-standard-grenade.jpeg)
 
     Standard (Bandit)
     Homing
@@ -153,6 +157,8 @@
 
 # Mirv Grenades
 
+![](./assets/grenade-mirv.jpeg)
+
     Mirv (Bandit)
     Homing
     BL2(BwAAAACQigABDy7oIBBIJBoDEIMdgwEDDoMOQwxDHcMRQx6DKMM=)
@@ -227,6 +233,8 @@
     BL2(BwAAAACLrAABDy7ogBBIJBoDD4MdgwEDDoMOQwxDHQMYgyBDJ8M=)
 
 # Bouncing Betty Grenades
+
+![](./assets/grenade-bouncing-betty.jpeg)
 
     Bouncing Betty (Bandit)
     Homing
@@ -330,6 +338,8 @@
 
 # Area of Effect
 
+![](./assets/grenade-tesla.jpeg)
+
     Homing
     BL2(BwAAAADJgAABDzTooBBI5BoDEIMdAwsDDoMGw/9/HUMZAx5DIcM=) (Corrosive)
     BL2(BwAAAABynAABDzTooBBI5BoDEIMdwwoDDoMGw/9/HUMZAx6DIcM=) (Fire)
@@ -351,6 +361,8 @@
     BL2(BwAAAAB08QABDzTooBBI5BoDD4MdQwsDDoMGw/9/HUMZgyDDIcM=)(Shock)
 
 # Singularity Grenades
+
+![](./assets/grenade-singularity.jpeg)
 
     Homing
     BL2(BwAAAADzTAABDzLowBBIpBoDEIMdgwEDDoMOw/9/HUMUAx4DKsM=)
