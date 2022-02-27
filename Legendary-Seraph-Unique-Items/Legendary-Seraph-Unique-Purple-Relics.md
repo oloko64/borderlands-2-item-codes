@@ -1,24 +1,37 @@
 # Blood of Terramorphous
 
+![](./assets/relic-blood-of-terramorphous.jpeg)
+
     BL2(BwAAAADOzAAZC2DYIBG9HgDA////////////fw1ABcA=)
 
 # Shadow of the Seraphs
+
+![](./assets/relic-shadow-of-the-seraphs.jpeg)
 
     BL2(BwAAAADsDwkCEwWYMBG9HgDA////////////vwAgAuA=)
 
 # Breath of the Seraphs
 
+![](./assets/relic-breath-of-the-seraphs.jpeg)
+
     BL2(BwAAAAAxugQADgGoMBG9HgCABsD/////////PwCjAeM=)
 
 # Blood of the Seraphs
+
+![](./assets/relic-blood-of-the-seraphs.jpeg)
 
     BL2(BwAAAAAdZQEAAQEIMBG9ngDh////////////PwBhAOE=)
 
 # Might of the Seraphs
 
+![](./assets/relic-might-of-the-seraphs.jpeg)
+
     BL2(BwAAAAA61wMEDQnAUBG9HgCABsD/////////vwrABeD/PwJgAuA=)
 
 # Blood of the Ancients
+
+![](./assets/relic-blood-of-the-ancients.jpeg)
+
 
     Max Health +54.4% / Assault Rifle Max Ammo +75.5% / SMG Max Ammo +75.5% 
     BL2(BwAAAAABLwgAAAEIcBG9HgCABkAIwP//////PwCgAuA=) 
@@ -67,6 +80,8 @@
 
 #  Bone of the Ancients
 
+![](./assets/relic-bone-of-the-ancients.jpeg)
+
     Corrosive Damage +33% / Cooldown Rate +39.4%)
     BL2(BwAAAADMAwgCAAUIUBG9XgDABQAKwP//////vwSgAuA=) 
 
@@ -76,7 +91,9 @@
     Shock Damage +33% / Cooldown Rate +39.4%
     BL2(BwAAAABUZwgCAAUIcBG9ngAABgAKwP//////vwSgAuA=)
 
-# Skin of the Acients
+# Skin of the Ancients
+
+![](./assets/relic-skin-of-the-ancients.jpeg)
 
     Fire Resistance +26.3% / Corrosive +25.8% / Explosive +27.0% / Shield Recharge Rate +33.3%
     BL2(BwAAAAD6iQgBAAMIkBG9ngDACYAIwA3A////fwSgAuA=) 
@@ -134,6 +151,8 @@
 
 # Heart of the Ancients
 
+![](./assets/relic-heart-of-the-ancients.jpeg)
+
     Assault Rifle Damage +33% / FFYL Time +33.3% / Second Wind Health +162% 
     BL2(BwAAAACNuwgDAAcIUBG9HgCABkAIgA7A/////wSgAuA=) 
 
@@ -153,6 +172,8 @@
     BL2(BwAAAADAbAgHAA8IUBG9HgCABkAIgA7A/////wSgAuA=)
 
 # Aggression Relics
+
+![](./assets/relic-agression-relics.jpeg)
 
     Assault Rifle Damage +33,3%
     BL2(BwAAAAClMQAJC0DYIBG9HgBAAMD/////////fwtABcA=)
@@ -174,13 +195,19 @@
 
 # Proficiency Relics
 
+![](./assets/relic-proficiency-relic.jpeg)
+
     BL2(BwAAAADb8wAICz7YIBG9HgDA////////////fwZABcA=)
 
 # Protection Relics
 
+![](./assets/relic-protection-relic.jpeg)
+
     BL2(BwAAAAALxgACCzLYYBG9HgCABsD//////////wZABcA=)
 
 # Stockpile Relics
+
+![](./assets/relic-stockpile-relic.jpeg)
 
     Assaut Rifle Max Ammo +75,5% 
     SMG Max Ammo +75,5% 
@@ -370,13 +397,19 @@
 
 # Sheriff's Badge
 
+![](./assets/relic-sheriff-badge.jpeg)
+
     BL2(BwAAAACzNQAaC2LYIBG9HgCAAIAGwP//CAAPwAxABcA=)
 
 # Strength Relic
 
+![](./assets/relic-strength-relic.jpeg)
+
     BL2(BwAAAABYaQADCzTYYBG9HgCABsD/////////vwpABcA=)
 
 # Allegiance Relics
+
+![](./assets/relic-allegiance-relic.jpeg)
 
     Maliwan - Damage + 33% Fire Rate + 24%
     BL2(BwAAAADJXAATC1TYoBG9HgDA/38IwP//////vwtABcA=)
@@ -452,9 +485,13 @@
 
 # Vitality Relic
 
+![](./assets/relic-vitality-relic.jpeg)
+
     BL2(BwAAAACNqwAACy7YIBG9HgDA/////////////wpABcA=)
 
 # Resistance Relics
+
+![](./assets/relic-resistance-relic.jpeg)
 
     Fire Resistance
     Shock Resistance 
@@ -536,6 +573,8 @@
 
 # Elemental Relics
 
+![](./assets/relic-elemental-relic.jpeg)
+
     Explosive Damage + 33%
     BL2(BwAAAADt0gAFCzjYIBG9XgDA////////////fwFABcA=)
 
@@ -553,32 +592,48 @@
 
 # Tenacity Relics
 
+![](./assets/relic-tenacity-relic.jpeg)
+
     BL2(BwAAAABHCQAHCzzYYBG9HgCABsD/////////PwtABcA=)
 
 # Moxxi's Endowment Relic
+
+![](./assets/relic-moxxi-endowment.jpeg)
 
     BL2(BwAAAADtfgAcC2bYIBG9HgDA////////////PwxABMA=)
 
 # Lucrative Opportunity
 
+![](./assets/relic-lucrative-opportunity.jpeg)
+
     BL2(BwAAAACaLAAXC1zYIBG9HgDA////////////fwxABMA=)
 
 # Vault Hunters Relic
+
+![](./assets/relic-vault-hunter-relic.jpeg)
 
     BL2(BwAAAAAdYQAYC17YIBG9HgBAAMD/////////Pw2AA8A=)
 
 # The Afterburner
 
+![](./assets/relic-the-afterburner.jpeg)
+
     BL2(BwAAAACq5gAeC2rYIBG9HgCABsD/fwjA/////wtABMA=)
 
 # Mysterious Amulet
+
+![](./assets/relic-mysterious-amulet.jpeg)
 
     BL2(BwAAAACIIQkBEwOYMBG9HgDA////////////fwBgAuA=)
 
 # Captain Blade's Otto Idol
 
+![](./assets/relic-otto-idol.jpeg)
+
     BL2(BwAAAABxFAEBAQMIMBG9HgCABsD//////////wBhBMA=)
 
 # Deputy's Badge
+
+![](./assets/relic-deputy-badge.jpeg)
 
     BL2(BwAAAAApSQAdC2jYIBG9HgCAAIAGwP//CAAPgAxABMA=)
