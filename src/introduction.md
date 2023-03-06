@@ -6,17 +6,17 @@ This project aims to move all the codes to Github and convert it to Markdown for
 
 # Index List
 ## Legendary Seraph Unique Perlescent Weapons
-- [Assault Rifles](src/Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Assault-Rifles.md)
+- [Assault Rifles](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_assault_rifles.md)
 
-- [Launchers](src/Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Launchers.md)
+- [Launchers](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_launchers.md)
 
-- [Pistols](src/Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Pistols.md)
+- [Pistols](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_pistols.md)
 
-- [Shotguns](src/Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Shotguns.md)
+- [Shotguns](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_shotguns.md)
 
-- [SMG](src/Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-SMG.md)
+- [SMG](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_smg.md)
 
-- [Snipers](src/Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Snipers.md)
+- [Snipers](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_snipers.md)
 
 ## Legendary Seraph Unique Items
 

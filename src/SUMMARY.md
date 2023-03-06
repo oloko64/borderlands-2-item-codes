@@ -4,12 +4,12 @@
 
 # Legendary Seraph Unique Perlescent Weapons
 
-- [Assault Rifles](Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Assault-Rifles.md)
-- [Launchers](Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Launchers.md)
-- [Pistols](Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Pistols.md)
-- [Shotguns](Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Shotguns.md)
-- [SMG](Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-SMG.md)
-- [Snipers](Legendary-Seraph-Unique-Perlescent-Weapons/Pearlescent-Seraph-Legendary-Unique-Snipers.md)
+- [Assault Rifles](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_assault_rifles.md)
+- [Launchers](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_launchers.md)
+- [Pistols](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_pistols.md)
+- [Shotguns](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_shotguns.md)
+- [SMG](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_smg.md)
+- [Snipers](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_snipers.md)
 
 # Legendary Seraph Unique Items
 
