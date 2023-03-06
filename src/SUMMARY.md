@@ -13,36 +13,36 @@
 
 # Legendary Seraph Unique Items
 
-- [Class Mods](Legendary-Seraph-Unique-Items/Legendary-Blue-Class-Mods.md)
-- [Grenades](Legendary-Seraph-Unique-Items/Legendary-Seraph-Unique-Grenades.md)
-- [Purple Relics](Legendary-Seraph-Unique-Items/Legendary-Seraph-Unique-Purple-Relics.md)
-- [Shields](Legendary-Seraph-Unique-Items/Legendary-Seraph-Unique-Shields.md)
+- [Class Mods](./legendary_seraph_unique_items/legendary_blue_class_mods.md)
+- [Grenades](./legendary_seraph_unique_items/legendary_seraph_unique_grenades.md)
+- [Purple Relics](./legendary_seraph_unique_items/legendary_seraph_unique_purple_relics.md)
+- [Shields](./legendary_seraph_unique_items/legendary_seraph_unique_shields.md)
 
 # Purple Items
 
-- [Grenades](Purple-Items/Purple-Grenades.md)
-- [Shields](Purple-Items/Purple-Shields.md)
-- [Weapons](Purple-Items/Purple-Weapons.md)
+- [Grenades](./purple_items/purple_grenades.md)
+- [Shields](./purple_items/purple_shields.md)
+- [Weapons](./purple_items/purple_weapons.md)
 
 # Skins, Class Mods and Consumables
 
-- [Class Mods](Skins-ClassMods-Consumables/Class-Mods.md)
-- [Consumables](Skins-ClassMods-Consumables/Consumables.md)
-- [Heads and Skins](Skins-ClassMods-Consumables/Heads-and-Skins.md)
+- [Class Mods](./skins_classmods_consumables/class_mods.md)
+- [Consumables](./skins_classmods_consumables/consumables.md)
+- [Heads and Skins](./skins_classmods_consumables/heads_and_skins.md)
 
 # Dragons Keep Gemstone Weapons
 
-- [Weapons](Dragons-Keep-Gemstone-Weapons/Dragons-Keep-Gemstone-Weapons.md)
+- [Weapons](./dragons_keep_gemstone_weapons/dragons_keep_gemstone_weapons.md)
 
 # E-Techs
 
-- [E-Techs](E-Techs/E-Techs.md)
+- [E-Techs](./e_techs/e_techs.md)
 
 # Modded Items and Weapons that passes Sanity Check
 
-- [Modded Items](Sanity-Check-Items/Modded-Items-that-passes-Sanity-Check.md)
-- [Modded Weapons](Sanity-Check-Items/Modded-Weapons-Items-that-passes-Sanity-Check.md)
+- [Modded Items](./sanity_check_items/modded_items_that_passes_sanity_check.md)
+- [Modded Weapons](./sanity_check_items/modded_weapons_items_that_passes_sanity_check.md)
 
 # Visual Parts Reference
 
-- [Visual Parts Reference](Visual-Parts-Reference/Visual-Parts-Reference.md)
+- [Visual Parts Reference](./visual_parts_reference/visual_parts_reference.md)
