@@ -1,6 +1,6 @@
 # Legendary Assassin
 
-![](./assets/classMods-legendary-assassin.jpeg)
+![](./assets/classmods_legendary_assassin.jpeg)
 
     Legendary Hunter 
     (Headsh0t/Fast Hands/C0unter Strike/Killing Bl0w/Ir0n Hand +5 All) 
@@ -23,7 +23,7 @@
 
 # Purple Assassin
 
-![](./assets/classMods-purple-assassin.jpeg)
+![](./assets/classmods_purple_assassin.jpeg)
 
     Bloodied Survivor 
     (Resurgence +5 / Ambush +4 / Rising Sh0t +4) 
@@ -297,7 +297,7 @@
 
 # Blue Assassin
 
-![](./assets/classMods-blue-assassin.jpeg)
+![](./assets/classmods_blue_assassin.jpeg)
 
     Contemptible Survivor 
     (Ambush +6 / Rising Sh0t +5) 
@@ -841,7 +841,7 @@
 
 # Legendary Commando
 
-![](./assets/classMods-legendary-commando.jpeg)
+![](./assets/classmods_legendary_commando.jpeg)
 
     Legendary Soldier 
     (Sentry / Ready / Impact / Expertise / Healthy / Preparation +5 All) 
@@ -864,7 +864,7 @@
 
 # Purple Commando
 
-![](./assets/classMods-purple-commando.jpeg)
+![](./assets/classmods_purple_commando.jpeg)
 
     Military Specialist 
     (Duty Calls +5 / Ready +4 / Forbearance +4) 
@@ -1138,7 +1138,7 @@
 
 # Blue Commando
 
-![](./assets/classMods-blue-commando.jpeg)
+![](./assets/classmods_blue_commando.jpeg)
 
     Military Specialist 
     (Duty Calls +6 / Ready +5) 
@@ -1681,7 +1681,7 @@
 
 # Legendary Gunzerker
 
-![](./assets/classMods-legendary-gunzerker.jpeg)
+![](./assets/classmods_legendary_gunzerker.jpeg)
 
     Legendary Berserker 
     (Locked and Loaded / Quick Draw / Filled To The Brim / Hard To Kill / Incite +5 All) 
@@ -1704,7 +1704,7 @@
 
 # Purple Gunzerker
 
-![](./assets/classMods-legendary-gunzerker.jpeg)
+![](./assets/classmods_legendary_gunzerker.jpeg)
 
     Loaded Hoarder 
     (Filled To The Brim +5 / 5 Shots or 6 +4 / Lay Waste +4) 
@@ -1978,7 +1978,7 @@
 
 # Blue Gunzerker
 
-![](./assets/classMods-blue-gunzerker.jpeg)
+![](./assets/classmods_blue_gunzerker.jpeg)
 
     Loaded Hoarder 
     (Filled To The Brim +6 / Lay Waste +5) 
@@ -2522,7 +2522,7 @@
 
 # Legendary Siren
 
-![](./assets/classMods-legendary-siren.jpeg)
+![](./assets/classmods_legendary_siren.jpeg)
 
     Legendary Siren 
     (Ward / Accelerate / Mind's Eye / Foresight / Flicker +5 All) 
@@ -2545,7 +2545,7 @@
 
 # Purple Siren
 
-![](./assets/classMods-purple-siren.jpeg)
+![](./assets/classmods_purple_siren.jpeg)
 
     Rebounding Warder 
     (Recompense +5 / Ward +4 / Wreck +4) 
@@ -2819,7 +2819,7 @@
 
 # Blue Siren
 
-![](./assets/classMods-blue-siren.jpeg)
+![](./assets/classmods_blue_siren.jpeg)
 
     Rebounding Warder 
     (Recompense +6 / Wreck +5) 
@@ -3362,7 +3362,7 @@
 
 # Legendary Mechromancer
 
-![](./assets/classMods-legendary-mechromancer.jpeg)
+![](./assets/classmods_legendary_mechromancer.jpeg)
 
     Legendary Mechromancer 
     (Cooking Up Trouble / The Better Half / 20% Cooler / More Pep / Strength of Five Gorillas / Smaller, Lighter, Faster) 
@@ -3385,7 +3385,7 @@
 
 # Purple Mechromancer
 
-![](./assets/classMods-purple-mechromancer.jpeg)
+![](./assets/classmods_purple_mechromancer.jpeg)
 
     Improved Jill Of All Trades 
     (The Better Half +5 / More Pep +4 / Smaller, Lighter, Faster +4) 
@@ -3659,7 +3659,7 @@
 
 # Blue Mechromancer
 
-![](./assets/classMods-blue-mechromancer.jpeg)
+![](./assets/classmods_blue_mechromancer.jpeg)
 
     Improved Jill Of All Trades 
     (The Better Half +6 / More Pep +5) 
@@ -4200,7 +4200,7 @@
 
 # Legendary Psycho
 
-![](./assets/classMods-legendary-psycho.jpeg)
+![](./assets/classmods_legendary_psycho.jpeg)
 
     Legendary Psycho 
     (Blood-Filled Guns / Blood Twitch / Empty the Rage / Feed the Meat / Burn, Baby, Burn / Fuel The Fire +5 All) 
@@ -4223,7 +4223,7 @@
 
 # Purple Psycho
 
-![](./assets/classMods-purple-psycho.jpeg)
+![](./assets/classmods_purple_psycho.jpeg)
 
     Blood Blister 
     (Blood Bath +5 / Fuel the Blood +4 / Blood Overdrive +4) 
@@ -4497,7 +4497,7 @@
 
 # Blue Psycho
 
-![](./assets/classMods-blue-psycho.jpeg)
+![](./assets/classmods_blue_psycho.jpeg)
 
     Diesel Blister Class Mod	
     [Grenade Capacity +6] [Kill Skill Duration +66%]	

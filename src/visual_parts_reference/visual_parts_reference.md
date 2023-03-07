@@ -1,22 +1,22 @@
 # Sniper
-![](./assets/sniper-part-reference.jpeg)
+![](./assets/sniper_part_reference.jpeg)
 
 # Shotgun
 
-![](./assets/shotgun-part-reference.jpeg)
+![](./assets/shotgun_part_reference.jpeg)
 
 # Assault Rifle
 
-![](./assets/rifle-part-reference.jpeg)
+![](./assets/rifle_part_reference.jpeg)
 
 # Pistol
 
-![](./assets/pistol-part-reference.jpeg)
+![](./assets/pistol_part_reference.jpeg)
 
 # SMG
 
-![](./assets/smg-part-reference.jpeg)
+![](./assets/smg_part_reference.jpeg)
 
 # Rocket Launcher
 
-![](./assets/launcher-part-reference.jpeg)
+![](./assets/launcher_part_reference.jpeg)

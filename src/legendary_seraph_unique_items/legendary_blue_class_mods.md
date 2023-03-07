@@ -1,6 +1,6 @@
 # Legendary Hunter
 
-![](./assets/classMods-legendary-hunter.jpeg)
+![](./assets/classmods_legendary_hunter.jpeg)
 
     BL2(BwAAAACf9wArDTIQZBBQKAnBAUEAwf///////////78EASYBAME=)
     BL2(BwAAAABbIQArDTIQZBBQaAjBAUEAwf///////////78EASYBAME=)
@@ -11,7 +11,7 @@
 
 # Legendary Sniper
 
-![](./assets/classMods-legendary-sniper.jpeg)
+![](./assets/classmods_legendary_sniper.jpeg)
 
     BL2(BwAAAABi6AoMAAMIsBBQKAnBAUEAwf///////////78EwQIgAME=)
     BL2(BwAAAACmPgoMAAMIsBBQaAjBAUEAwf///////////78EwQIgAME=)
@@ -22,7 +22,7 @@
 
 # Legendary Ninja
 
-![](./assets/classMods-legendary-ninja.jpeg)
+![](./assets/classmods_legendary_ninja.jpeg)
 
     BL2(BwAAAAAeoAoLAAMIEBFQKAnBAUEAwf///////////78EQQIgAME=)
     BL2(BwAAAADadgoLAAMIEBFQaAjBAUEAwf///////////78EQQIgAME=)
@@ -33,7 +33,7 @@
 
 # Legendary Killer
 
-![](./assets/classMods-legendary-killer.jpeg)
+![](./assets/classmods_legendary_killer.jpeg)
 
     BL2(BwAAAABSGAoKAAMI8BFQKAnBAUEAwf///////////78EgQIgAME=)
     BL2(BwAAAACWzgoKAAMI8BFQaAjBAUEAwf///////////78EgQIgAME=)
@@ -44,7 +44,7 @@
 
 # Legendary Soldier
 
-![](./assets/classMods-legendary-soldier.jpeg)
+![](./assets/classmods_legendary_soldier.jpeg)
 
     BL2(BwAAAABhWAAlDW6hQxBQKAnBAUEAwf///////////78EQRABAME=)
     BL2(BwAAAACljgAlDW6hQxBQaAjBAUEAwf///////////78EQRABAME=)
@@ -55,7 +55,7 @@
 
 # Legendary Engineer
 
-![](./assets/classMods-legendary-engineer.jpeg)
+![](./assets/classmods_legendary_engineer.jpeg)
 
     BL2(BwAAAAA92goDAAMIEBFQKAnBAUEAwf///////////78EQQEgAME=)
     BL2(BwAAAAD5DAoDAAMIEBFQaAjBAUEAwf///////////78EQQEgAME=)
@@ -66,7 +66,7 @@
 
 # Legendary Ranger
 
-![](./assets/classMods-legendary-ranger.jpeg)
+![](./assets/classmods_legendary_ranger.jpeg)
 
     BL2(BwAAAAAZtwoFAAMIEBFQKAnBAUEAwf///////////78EwQAgAME=)
     BL2(BwAAAADdYQoFAAMIEBFQaAjBAUEAwf///////////78EwQAgAME=)
@@ -77,7 +77,7 @@
 
 # Legendary Pointman
 
-![](./assets/classMods-legendary-pointman.jpeg)
+![](./assets/classmods_legendary_pointman.jpeg)
 
     BL2(BwAAAAA4/woEAAMIEBJQKAnBAUEAwf///////////78EAQEgAME=)
     BL2(BwAAAAD8KQoEAAMIEBJQaAjBAUEAwf///////////78EAQEgAME=)
@@ -88,7 +88,7 @@
 
 # Legendary Titan
 
-![](./assets/classMods-legendary-titan.jpeg)
+![](./assets/classmods_legendary_titan.jpeg)
 
     BL2(BwAAAABnggoJAAMI8BFQKAnBAUEAwf///////////78EgQEgAME=)
     BL2(BwAAAACjVAoJAAMI8BFQaAjBAUEAwf///////////78EgQEgAME=)
@@ -99,7 +99,7 @@
 
 # Legendary Gunzerker
 
-![](./assets/classMods-legendary-gunzerker.jpeg)
+![](./assets/classmods_legendary_gunzerker.jpeg)
 
     BL2(BwAAAAAzmAoHAAMIEBFQKAnBAUEAwf///////////38DAQMgAME=)
     BL2(BwAAAAD3TgoHAAMIEBFQaAjBAUEAwf///////////38DAQMgAME=)
@@ -110,7 +110,7 @@
 
 # Legendary Hoarder
 
-![](./assets/classMods-legendary-hoarder.jpeg)
+![](./assets/classmods_legendary_hoarder.jpeg)
 
     BL2(BwAAAAD9cgoIAAMIsBBQKAnBAUEAwf///////////78EwQEgAME=)
     BL2(BwAAAAA5pAoIAAMIsBBQaAjBAUEAwf///////////78EwQEgAME=)
@@ -121,7 +121,7 @@
 
 # Legendary Berserker
 
-![](./assets/classMods-legendary-berzeker.jpeg)
+![](./assets/classmods_legendary_berzeker.jpeg)
 
     BL2(BwAAAAAL9gApDTIQhBBQaAjBAYEBwf///////////38DwSEBAME=)
     BL2(BwAAAADPIAApDTIQhBBQKAnBAYEBwf///////////38DwSEBAME=)
@@ -132,7 +132,7 @@
 
 # Legendary Siren
 
-![](./assets/classMods-legendary-siren.jpeg)
+![](./assets/classmods_legendary_siren.jpeg)
 
     BL2(BwAAAADE7QAnDXyhAxFQKAnBAUEAwf///////////78EgRgBAME=)
     BL2(BwAAAAAAOwAnDXyhAxFQaAjBAUEAwf///////////78EgRgBAME=)
@@ -143,7 +143,7 @@
 
 # Legendary Binder
 
-![](./assets/classMods-legendary-binder.jpeg)
+![](./assets/classmods_legendary_binder.jpeg)
 
     BL2(BwAAAADV8QoAAAMIEBFQKAnBAUEAwf///////////78EAQAgAME=)
     BL2(BwAAAAARJwoAAAMIEBFQaAjBAUEAwf///////////78EAQAgAME=)
@@ -154,7 +154,7 @@
 
 # Legendary Cat
 
-![](./assets/classMods-legendary-cat.jpeg)
+![](./assets/classmods_legendary_cat.jpeg)
 
     BL2(BwAAAAA2aQoCAAMIsBBQKAnBAUEAwf///////////78EgQAgAME=)
     BL2(BwAAAADyvwoCAAMIsBBQaAjBAUEAwf///////////78EgQAgAME=)
@@ -165,7 +165,7 @@
 
 # Legendary Nurse
 
-![](./assets/classMods-legendary-nurse.jpeg)
+![](./assets/classmods_legendary_nurse.jpeg)
 
     BL2(BwAAAAD7rQoBAAMI8BFQKAnBAUEAwf///////////78EQQAgAME=)
     BL2(BwAAAAA/ewoBAAMI8BFQaAjBAUEAwf///////////78EQQAgAME=)
@@ -176,7 +176,7 @@
 
 # Legendary Mechromancer
 
-![](./assets/classMods-legendary-mechromancer.jpeg)
+![](./assets/classmods_legendary_mechromancer.jpeg)
 
     BL2(BwAAAAC8ZAIKAQkI0BBQKAnBAUEAwf///////////38DQQsgAME=)
     BL2(BwAAAAB4sgIKAQkI0BBQaAjBAUEAwf///////////38DQQsgAME=)
@@ -187,7 +187,7 @@
 
 # Legendary Catalyst
 
-![](./assets/classMods-legendary-catalyst.jpeg)
+![](./assets/classmods_legendary_catalyst.jpeg)
 
     BL2(BwAAAACvTwoVAAMIEBFQKAnBAUEAwf///////////78EgQMgAME=)
     BL2(BwAAAABrmQoVAAMIEBFQaAjBAUEAwf///////////78EgQMgAME=)
@@ -198,7 +198,7 @@
 
 # Legendary Roboteer
 
-![](./assets/classMods-legendary-roboteer.jpeg)
+![](./assets/classmods_legendary_roboteer.jpeg)
 
     BL2(BwAAAACJ1QoWAAMIsBBQKAnBAUEAwf///////////78EQQMgAME=)
     BL2(BwAAAABNAwoWAAMIsBBQaAjBAUEAwf///////////78EQQMgAME=)
@@ -209,7 +209,7 @@
 
 # Legendary Anarchist
 
-![](./assets/classMods-legendary-anarchist.jpeg)
+![](./assets/classmods_legendary_anarchist.jpeg)
 
     BL2(BwAAAADe4QoUAAMIsBBQKAnBAUEAwf///////////78EwQMgAME=)
     BL2(BwAAAAAaNwoUAAMIsBBQaAjBAUEAwf///////////78EwQMgAME=)
@@ -220,7 +220,7 @@
 
 # Legendary Psycho
 
-![](./assets/classMods-legendary-psycho.jpeg)
+![](./assets/classmods_legendary_psycho.jpeg)
 
     BL2(BwAAAAAHkQYLAAcAMBBQKAnBAUEAwf///////////78EQQkgAME=)
     BL2(BwAAAADDRwYLAAcAMBBQaAjBAUEAwf///////////78EQQkgAME=)
@@ -231,7 +231,7 @@
 
 # Legendary Sickle
 
-![](./assets/classMods-legendary-sickie.jpeg)
+![](./assets/classmods_legendary_sickie.jpeg)
 
     BL2(BwAAAADKYgoYAAMIEBFQKAnBAUEAwf///////////78EgQQgAME=)
     BL2(BwAAAAAOtAoYAAMIEBFQaAjBAUEAwf///////////78EgQQgAME=)
@@ -242,7 +242,7 @@
 
 # Legendary Torch
 
-![](./assets/classMods-legendary-torch.jpeg)
+![](./assets/classmods_legendary_torch.jpeg)
 
     BL2(BwAAAABthAoZAAMIEBFQKAnBAUEAwf///////////78EQQQgAME=)
     BL2(BwAAAACpUgoZAAMIEBFQaAjBAUEAwf///////////78EQQQgAME=)
@@ -253,7 +253,7 @@
 
 # Legendary Reaper
 
-![](./assets/classMods-legendary-reaper.jpeg)
+![](./assets/classmods_legendary_reaper.jpeg)
 
     BL2(BwAAAADVxgoXAAMIEBFQKAnBAUEAwf///////////78EAQQgAME=)
     BL2(BwAAAAAREAoXAAMIEBFQaAjBAUEAwf///////////78EAQQgAME=)

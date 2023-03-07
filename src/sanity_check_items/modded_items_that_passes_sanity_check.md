@@ -1,6 +1,6 @@
 # Legendary Siren Antagonist
 
-![](./assets/item-siren-antagonist.jpeg)
+![](./assets/item_siren_antagonist.jpeg)
 
 ### Use this Class Mod with the Impaler shield, and you will end up having two spikes, 1 slag and 1 corrosive.
 
@@ -8,7 +8,7 @@
 
 # Legendary Commando Antagonist
 
-![](./assets/item-soldier-antagonist.jpeg)
+![](./assets/item_soldier_antagonist.jpeg)
 
 ### Use this Class Mod with the Impaler shield, and you will end up having two spikes, 1 slag and 1 corrosive.
 
@@ -16,7 +16,7 @@
 
 # Legendary Berserker Antagonist
 
-![](./assets/item-berzeker-antagonist.jpeg)
+![](./assets/item_berzeker_antagonist.jpeg)
 
 ### Use this Class Mod with the Impaler shield, and you will end up having two spikes, 1 slag and 1 corrosive.
 
@@ -24,7 +24,7 @@
 
 # Legendary Hunter Antagonist
 
-![](./assets/item-hunter-antagonist.jpeg)
+![](./assets/item_hunter_antagonist.jpeg)
 
 ### Use this Class Mod with the Impaler shield, and you will end up having two spikes, 1 slag and 1 corrosive.
 
@@ -32,14 +32,14 @@
 
 # The Bee
 
-![](./assets/item-the-bee.jpeg)
+![](./assets/item_the_bee.jpeg)
 
     Fastest Delay
     BL2(BwAAAADe4gAWEXyg4xBQ6P9/A4QFBFfE/////////z8jxA==)
 
 # Alkaline The Bee
 
-![](./assets/item-alkaline-the-bee.jpeg)
+![](./assets/item_alkaline_the_bee.jpeg)
     
     Corrosive Res/Max Amp
     BL2(BwAAAAD7BgAWEXyg4xBQ6P+/BMQGBFfE/////////z8jxA==)
@@ -55,21 +55,21 @@
 
 # Fire Bee
 
-![](./assets/item-fire-bee.jpeg)
+![](./assets/item_fire_bee.jpeg)
 
     Incendiary Fire Bee
     BL2(BwAAAAA6KwAEDzzoIBBQaBzDD8P//woDDoMOgwxDHQMSww==)
 
 # Corrosive Pandemic
 
-![](./assets/item-corrosive-pandemic.jpeg)
+![](./assets/item_corrosive_pandemic.jpeg)
 
     Corrosive Pandemic Fastball
     BL2(BwAAAACA+QAEDzzoIBBQaBzDD8P/PwsDDoMOgwxDHQMSww==)
 
 # Shock Storm
 
-![](./assets/item-shock-storm-front.jpeg)
+![](./assets/item_shock_storm_front.jpeg)
 
     Shock Storm Front Fastball
     BL2(BwAAAAAh2QAEDzzoIBBQaBzDD8P/fwsDDoMOgwxDHQMSww==)

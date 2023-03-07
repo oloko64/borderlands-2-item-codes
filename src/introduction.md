@@ -6,58 +6,58 @@ This project aims to move all the codes to Github and convert it to Markdown for
 
 # Index List
 ## Legendary Seraph Unique Perlescent Weapons
-- [Assault Rifles](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_assault_rifles.md)
+- [Assault Rifles](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_assault_rifles.md)
 
-- [Launchers](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_launchers.md)
+- [Launchers](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_launchers.md)
 
-- [Pistols](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_pistols.md)
+- [Pistols](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_pistols.md)
 
-- [Shotguns](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_shotguns.md)
+- [Shotguns](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_shotguns.md)
 
-- [SMG](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_smg.md)
+- [SMG](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_smg.md)
 
-- [Snipers](src/legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_snipers.md)
+- [Snipers](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_snipers.md)
 
 ## Legendary Seraph Unique Items
 
-- [Class Mods](src/legendary_seraph_unique_items/legendary_blue_class_mods.md)
+- [Class Mods](./legendary_seraph_unique_items/legendary_blue_class_mods.md)
 
-- [Grenades](src/legendary_seraph_unique_items/legendary_seraph_unique_grenades.md)
+- [Grenades](./legendary_seraph_unique_items/legendary_seraph_unique_grenades.md)
 
-- [Purple Relics](src/legendary_seraph_unique_items/legendary_seraph_unique_purple_relics.md)
+- [Purple Relics](./legendary_seraph_unique_items/legendary_seraph_unique_purple_relics.md)
 
-- [Shields](src/legendary_seraph_unique_items/legendary_seraph_unique_shields.md)
+- [Shields](./legendary_seraph_unique_items/legendary_seraph_unique_shields.md)
 
 ## Purple Items
 
-- [Grenades](src/purple_items/purple_grenades.md)
+- [Grenades](./purple_items/purple_grenades.md)
 
-- [Shields](src/purple_items/purple_shields.md)
+- [Shields](./purple_items/purple_shields.md)
 
-- [Weapons](src/purple_items/purple_weapons.md)
+- [Weapons](./purple_items/purple_weapons.md)
 
 ## Skins, Class Mods and Consumables
 
-- [Class Mods](src/skins_classmods_consumables/class_mods.md)
+- [Class Mods](./skins_classmods_consumables/class_mods.md)
 
-- [Consumables](src/skins_classmods_consumables/consumables.md)
+- [Consumables](./skins_classmods_consumables/consumables.md)
 
-- [Heads and Skins](src/skins_classmods_consumables/heads_and_skins.md)
+- [Heads and Skins](./skins_classmods_consumables/heads_and_skins.md)
 
 ## Dragons Keep Gemstone Weapons
 
-- [Weapons](src/dragons_keep_gemstone_weapons/dragons_keep_gemstone_weapons.md)
+- [Weapons](./dragons_keep_gemstone_weapons/dragons_keep_gemstone_weapons.md)
 
 ## E-Techs
 
-- [E-Techs](src/e_techs/e_techs.md)
+- [E-Techs](./e_techs/e_techs.md)
 
 ## Modded Items and Weapons that passes Sanity Check
 
-- [Modded Items](src/sanity_check_items/modded_items_that_passes_sanity_check.md)
+- [Modded Items](./sanity_check_items/modded_items_that_passes_sanity_check.md)
 
-- [Modded Weapons](src/sanity_check_items/modded_weapons_items_that_passes_sanity_check.md)
+- [Modded Weapons](./sanity_check_items/modded_weapons_items_that_passes_sanity_check.md)
 
 ## Visual Parts Reference
 
-- [Visual Parts Reference](src/visual_parts_reference/visual_parts_reference.md)
+- [Visual Parts Reference](./visual_parts_reference/visual_parts_reference.md)

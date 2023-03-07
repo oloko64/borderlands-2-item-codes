@@ -1,6 +1,6 @@
 # Gatling Gun
 
-![](./assets/weapon-gatling-gun.jpeg)
+![](./assets/weapon_gatling_gun.jpeg)
 
     Torgue Explosive Assault Rifles - x3 Multiplier
     BL2(hwAAAACO7QCDxgI/BgGF1mIYxGCAYQFDIob//xgY/v/bYvg=)
@@ -10,21 +10,21 @@
 
 # Ogre
 
-![](./assets/weapon-ogre.jpeg)
+![](./assets/weapon_ogre.jpeg)
 
     Bullet Speed
     BL2(hwAAAABFOwmDRgAMCwGF1mIoxGCAUAGDIob//xcY/v9HIPw=)
 
 # Ferocious Ogre
 
-![](./assets/weapon-ferocious-ogre.jpeg)
+![](./assets/weapon_ferocious_ogre.jpeg)
 
     Damage
     BL2(hwAAAAA3nwmDRgAMCwGF1mIoxGCAUAGDIob//xUY/v9HIPw=)
 
 # Trick Shot Infinity
 
-![](./assets/weapon-infinity.jpeg)
+![](./assets/weapon_infinity.jpeg)
 
     Corrosive - Ricochets
     BL2(hwAAAACN1wCE5wRABgGF6sNohYEQwwHG//8KGB4w/v8rxPg=)
@@ -40,14 +40,14 @@
 
 # Trick Shot Unkempt Harold
 
-![](./assets/weapon-unkempt-harold.jpeg)
+![](./assets/weapon_unkempt_harold.jpeg)
 
     Ricochets
     BL2(hwAAAAAp5QCFBwVABgGF2sOIhWEQwwHG/////x4w/v8fxECCcRHj)
 
 # Trick Shot Thunderball Fists
 
-![](./assets/weapon-thunderball-fists.jpeg)
+![](./assets/weapon_thunderball_fists.jpeg)
 
     Shock/Trick Shot - Ricochets
     BL2(hwAAAAAnIwCGJwVABgGFusOIhUEQ4wHG/38KGB4w/v8XxPg=)
@@ -57,7 +57,7 @@
 
 # Trick Shot Rubi
 
-![](./assets/weapon-trick-shot-rubi.jpeg)
+![](./assets/weapon_trick_shot_rubi.jpeg)
 
     Explosive - Ricochets
     BL2(hwAAAAA5jACGBwJABgGFMsOIhdEM4wHG/////x4w/v87w/g=)
@@ -76,7 +76,7 @@
 
 # Trick Shot Grog Nozzle
 
-![](./assets/weapon-grog-nozzle.jpeg)
+![](./assets/weapon_grog_nozzle.jpeg)
 
     Slag - Ricochets
     BL2(hwAAAAD/qwmGJwAMBwGFMsOIhTGA8AHG/38LGB4w/v8XIEyDQYDw)
@@ -86,7 +86,7 @@
 
 # Extendified Grog Nozzle
 
-![](./assets/weapon-extendified-grog-nozzle.jpeg)
+![](./assets/weapon_extendified_grog_nozzle.jpeg)
 
     Slag - Huge Mag
     BL2(hwAAAADYjQmGJwAMAwGFMsNYhTGAUAHG/38LGBww/v8XIPw=)
@@ -96,28 +96,28 @@
 
 # Trick Shot Pepperbox
 
-![](./assets/weapon-pepperbox.jpeg)
+![](./assets/weapon_pepperbox.jpeg)
 
     Ricochets
     BL2(hwAAAACP1QCE5wNABtHr6cNohTEAwwHG/38JGB4w/v/vw0iDkQjj)
 
 # Two Fer Pepperbox
 
-![](./assets/weapon-two-fer-pepperbox.jpeg)
+![](./assets/weapon_two_fer_pepperbox.jpeg)
 
     Projectiles
     BL2(hwAAAACPoQCE5wNABtHr6cOIhTEAwwHG/38JGBow/v/vwyiCkQjj)
 
 # Dastardly Pepperbox
 
-![](./assets/weapon-dastardly-pepperbox.jpeg)
+![](./assets/weapon_dastardly_pepperbox.jpeg)
 
     Damage
     BL2(hwAAAABqwgCE5wNABtHr6cOIhTEAwwHG/38JGB0w/v/vwwCDkQjj)
 
 # Asssault Blockhead
 
-![](./assets/weapon-blockhead.jpeg)
+![](./assets/weapon_blockhead.jpeg)
 
     Explosive - Mag Size
     BL2(hwAAAAA0LwADyINAAgGFtkA5g+IM5QDKG5T//xJQ/v8fQxmDsg3l)
@@ -127,7 +127,7 @@
 
 # Rustler's Blockhead
 
-![](./assets/weapon-rustier-blockhead.jpeg)
+![](./assets/weapon_rustier_blockhead.jpeg)
 
     Explosive - Damage
     BL2(hwAAAACXlAADyINABgGFtkBRg+IM5QDKG5T//xJQ/v8fQxmDsg3l)
@@ -137,13 +137,13 @@
 
 # Boosh a Error Message
 
-![](./assets/weapon-error-message.jpeg)
+![](./assets/weapon_error_message.jpeg)
 
     BL2(hwAAAAAjGAFB54IDCQGFTiAkQ0GB8P+/G4r///////9roshBgoPw)
 
 # Fast Actons
 
-![](./assets/weapon-fast-actons.jpeg)
+![](./assets/weapon_fast_actons.jpeg)
 
     Explosive - Damage
     BL2(hwAAAACH6wBER4M/CAGFVqIgQ8GLggCFG4r//xwo/v/TokhB8Q==)
@@ -177,7 +177,7 @@
 
 # Badaboom
 
-![](./assets/weapon-badaboom.jpeg)
+![](./assets/weapon_badaboom.jpeg)
 
 ### Low level for jumping/launching yourself in the air
 
@@ -186,7 +186,7 @@
 
 # Badaboom + mag
 
-![](./assets/weapon-badaboom-x2.jpeg)
+![](./assets/weapon_badaboom_x2.jpeg)
 
 ### Low level for jumping/launching yourself in the air
 
@@ -195,13 +195,13 @@
 
 # derp Boom
 
-![](./assets/weapon-derp-boom.jpeg)
+![](./assets/weapon_derp_boom.jpeg)
     
     BL2(hwAAAABgBARBB4AICQGFAqAgQwGA8f9/GwoIFBwo/v8boPg=)
 
 # Bulets Go Fasterified Sand Hawk
 
-![](./assets/weapon-sand-hawk.jpeg)
+![](./assets/weapon_sand_hawk.jpeg)
 
     Corrosive
     BL2(hwAAAAAFvgFByIIDAwGFcmIhwVKCEAFLChYHLBVY/v/fIPw=)
@@ -220,7 +220,7 @@
 
 # Pacifying Pimpernel
 
-![](./assets/weapon-pimpernel.jpeg)
+![](./assets/weapon_pimpernel.jpeg)
 
 ### Burst Fire When Zoomed+Super Stability
 
@@ -241,7 +241,7 @@
 
 # Pacifying Cobra
 
-![](./assets/weapon-cobra.jpeg)
+![](./assets/weapon_cobra.jpeg)
 
 ### Burst Fire When Zoomed
 

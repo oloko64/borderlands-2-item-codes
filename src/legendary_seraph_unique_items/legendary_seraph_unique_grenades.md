@@ -1,6 +1,6 @@
 # Meteor Shower
 
-![](./assets/grenades-meteor-shower.jpeg)
+![](./assets/grenades_meteor_shower.jpeg)
 
     Homing Meteor Shower
     BL2(BwAAAADPPAMGDQ3AkBC9ngkgEIMAgwEDCaAGgwzD/38YAx5DA+A=)
@@ -25,7 +25,7 @@
 
 # Crossfire
 
-![](./assets/grenades-crossfire.jpeg)
+![](./assets/grenades_crossfire.jpeg)
 
     Homing Crossfire
     BL2(BwAAAADilwMFDQvAUBC9XgggEIMdAwuDB2AGw/9/HUMTAx7DA+A=)
@@ -57,7 +57,7 @@
 
 # O-Negative
 
-![](./assets/grenades-o-negative.jpeg)
+![](./assets/grenades_o_negative.jpeg)
 
     Homing O-Negative
     BL2(BwAAAABKGgMHDQ/AEBG9HhsDEMMAAwvDCaAOQwxDHYMVAx5DBOA=)
@@ -110,7 +110,7 @@
 
 # Fire Bee
 
-![](./assets/grenades-fire-bee.jpeg)
+![](./assets/grenades_fire_bee.jpeg)
 
     Homing Fire Bee
     BL2(BwAAAADfowAFDz7ooBC9XhwDEIMdwwoDDoMGw/9/HYMZAx5DJcM=)
@@ -126,7 +126,7 @@
 
 # Storm Front
 
-![](./assets/grenades-storm-front.jpeg)
+![](./assets/grenades_storm_front.jpeg)
 
     Homing Storm Front
     BL2(BwAAAAA9VwAFD0jooBC9XhwDEIMdQwsDDoMGw/9/HYMZAx6DJcM=)
@@ -142,7 +142,7 @@
 
 # Pandemic
 
-![](./assets/grenades-pandemic.jpeg)
+![](./assets/grenades_pandemic.jpeg)
 
     Homing Pandemic
     BL2(BwAAAAAFpQAFD0LooBC9XhwDEIMdAwsDDoMGw/9/HYMZAx4DJcM=)
@@ -158,7 +158,7 @@
 
 # Leech
 
-![](./assets/grenades-electric-leach.jpeg)
+![](./assets/grenades_electric_leach.jpeg)
 
     Homing Caustic Leech
     BL2(BwAAAADdHQAGD0DoABG93hsDEIMdAwsDDkMGQwdDHcMVAx5DJsM=)
@@ -225,7 +225,7 @@
 
 # Fastball
 
-![](./assets/grenades-fastball.jpeg)
+![](./assets/grenades_fastball.jpeg)
 
     Corrosive Fastball
     BL2(BwAAAAACpgAEDzzo4BC93v+/EIMdAwsDDkMOw/9/HQMXgwnDLsM=)
@@ -241,7 +241,7 @@
 
 # Nasty Surprise
 
-![](./assets/grenades-nasty-surprise.jpeg)
+![](./assets/grenades_nasty_surprise.jpeg)
 
     Corrosive Nasty Surprise
     BL2(BwAAAAAq6AAHD0rowBC93v//EIMAAwsDDoMOAwxDHYMUgwkDL8M=)
@@ -260,7 +260,7 @@
 
 # Quasar
 
-![](./assets/grenades-quasar.jpeg)
+![](./assets/grenades_quasar.jpeg)
 
     Homing Quasar
     BL2(BwAAAAB7qwAID0TowBC9nhwDEIMdQwsDDoMOw/9/HYMUAx6DKcM=)
@@ -285,7 +285,7 @@
 
 # Bouncing Bonny
 
-![](./assets/grenades-bouncing-bonny.jpeg)
+![](./assets/grenades_bouncing_bonny.jpeg)
 
     Homing Bouncing Bonny
     BL2(BwAAAADwTgADDzroQBC9nhsDEIMdAwsDDkMGw/9/HUMTAx7DJMM=)
@@ -338,14 +338,14 @@
 
 # Rolling Thunder
 
-![](./assets/grenades-thunder.jpeg)
+![](./assets/grenades_thunder.jpeg)
 
     Rolling Thunder
     BL2(BwAAAAA1JwAJD0bogBC93v9/D4MdgwEDDoMOAwzD/38Yw/9/L8M=)
 
 # Bonus Package
 
-![](./assets/grenades-bonus-package.jpeg)
+![](./assets/grenades_bonus_package.jpeg)
 
     Homing Bonus Package
     BL2(BwAAAABcHwACDzjogBC9HhwDEIMdgwEDDoMOgwzD/38YAx4DIsM=)
@@ -370,7 +370,7 @@
 
 # Breath of Terramorphous
 
-![](./assets/grenades-breath-of-terramorphous.jpeg)
+![](./assets/grenades_breath_of_terramorphous.jpeg)
 
     Homing Breath of Terramorphous
     BL2(BwAAAABEGQAKD0zooBC9XhsDEIMdwwoDDUMGwwZDHYMZAx7DJcM=)
@@ -386,49 +386,49 @@
 
 # Fire Storm
 
-![](./assets/grenades-storm.jpeg)
+![](./assets/grenades_storm.jpeg)
 
     BL2(BwAAAABbJwkAFQugEBG93v9/AqIdwwoDBoMGw/9/CMMVw/8/AuI=)
 
 # Chain Lightning
 
-![](./assets/grenades-lightning.jpeg)
+![](./assets/grenades_lightning.jpeg)
 
     BL2(BwAAAAD8HQkAFQmgEBG93v+/AaIdQwsDBkMGw/9/CMMVw///AeI=)
 
 # Magic Missile
 
-![](./assets/grenades-magic-missile.jpeg)
+![](./assets/grenades_magic_missile.jpeg)
 
     BL2(BwAAAADIsAkAFQegEBG93v+/AqIdgwsDBkMGQwdDCIMVw///AOI=)
 
 # Fireball
 
-![](./assets/grenades-fireball.jpeg)
+![](./assets/grenades_fireball.jpeg)
 
     BL2(BwAAAAAgyQkAFQGgEBG93v9/AKIdwwoDBoMGw/9/CEMVw/8/AOI=)
 
 # Lightning Bolt
 
-![](./assets/grenades-lightning-bolt.jpeg)
+![](./assets/grenades_lightning_bolt.jpeg)
 
     BL2(BwAAAAD4zAkAFQOgEBG93v9/AaIdQwsDBkMGw/9/CEMVw/+/AOI=)
 
 # Magic Missile
 
-![](./assets/grenades-magic-missile-x4.jpeg)
+![](./assets/grenades_magic_missile_x4.jpeg)
 
     BL2(BwAAAABgIgkAFQWgEBG93v8/AaIdgwsDBkMGQwdDCEMVw///AOI=)
 
 # Captein Blade's Midnight Star
 
-![](./assets/grenades-midnight-star.jpeg)
+![](./assets/grenades_midnight_star.jpeg)
 
     BL2(BwAAAAASnAEAFgHgkBC93v8/AKIdgwEDBoMGQwxDCMMXww==)
 
 # Fuster Cluck
 
-![](./assets/grenades-fuster-cluck.jpeg)
+![](./assets/grenades_fuster_cluck.jpeg)
 
     Corrosive Fuster Cluck
     BL2(BwAAAACu1wAADwDoIBC9HgBDAIMAgwMDBoMGQwdDCIMIgwlDCcM=)
@@ -447,7 +447,7 @@
 
 # Kiss of Death
 
-![](./assets/grenades-kiss-of-death.jpeg)
+![](./assets/grenades_kiss_of_death.jpeg)
 
     Corrosive Kiss of Death
     BL2(BwAAAABhHwABD1DoABG93hxDEIMdAwsDBoMGQwdDCEMVgwkDJsM=)
@@ -463,6 +463,6 @@
 
 # Contraband Sky Rocket
 
-![](./assets/grenades-sky-rocket.jpeg)
+![](./assets/grenades_sky_rocket.jpeg)
 
     BL2(BwAAAADq/QALD07oIBAAwP8/EYMAAwLDBUMGw/+/B4MIw/8/IcM=)

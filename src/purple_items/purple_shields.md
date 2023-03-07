@@ -1,6 +1,6 @@
 # Turtle Shields
 
-![](./assets/shield-turtle-shield.jpeg)
+![](./assets/shield_turtle_shield.jpeg)
 
     Turtle Shield
     BL2(BwAAAADw/gAHEW6gAxJIJAKEA4QGhBzE/////////38cxP+/OsQ=)
@@ -34,7 +34,7 @@
 
 # Standard Shields
 
-![](./assets/shield-shield.jpeg)
+![](./assets/shield_shield.jpeg)
 
     Shield
     BL2(BwAAAABHpQAIEXyg4xBIJAJEBMQFRCPE/////////z8jxP8/FsQ=)
@@ -64,7 +64,7 @@
 
 # Adaptive Shields
 
-![](./assets/shield-adaptive-shield.jpeg)
+![](./assets/shield_adaptive_shield.jpeg)
 
     Adaptive Shield
     BL2(BwAAAAAnOAAFEWKg4xFIZAHEBMQHhBrE/////////38axP+/L8Q=)
@@ -89,7 +89,7 @@
 
 # Absorb Shields
 
-![](./assets/shield-absorb-shield.jpeg)
+![](./assets/shield_absorb_shield.jpeg)
 
     Absorb Shield
     BL2(BwAAAADPAwADEVqgoxBIJAHEAwQIhBjE/////////38YxP+/JMQ=)
@@ -132,7 +132,7 @@
 
 # Amplify Shields
 
-![](./assets/shield-amplify-shield.jpeg)
+![](./assets/shield_amplify_shield.jpeg)
 
     Amplify Shield
     BL2(BwAAAACeMgAGEWigwxBIJAFEBIQFhBvE/////////38bxP8/NcQ=)
@@ -172,7 +172,7 @@
 
 # Booster Shields
 
-![](./assets/shield-booster-shield.jpeg)
+![](./assets/shield_booster_shield.jpeg)
 
     Booster Shield
     BL2(BwAAAABOeAAEEVygQxBIpABEBMQHhBnE/////////38ZxP8/KsQ=)
@@ -206,7 +206,7 @@
 
 # Maylay Shields
 
-![](./assets/shield-maylay-shield.jpeg)
+![](./assets/shield_maylay_shield.jpeg)
 
     Maylay Shield
     BL2(BwAAAADpDwAAEXagIxBIZAHEA0QGRAjE/////////z8DxP+/CMQ=)
@@ -249,7 +249,7 @@
 
 # Nova Shields
 
-![](./assets/shield-nova-shield.jpeg)
+![](./assets/shield_nova_shield.jpeg)
 
     Majestic Acid Nova Shield
     BL2(BwAAAAAC2gALEYKgAxFIZAJEA4QGBEDE/////////38XhElESMQ=)
@@ -289,7 +289,7 @@
 
 # Spike Shields
 
-![](./assets/shield-spike-shield.jpeg)
+![](./assets/shield_spike_shield.jpeg)
 
     Ardent Corrosive Spike Shield
     BL2(BwAAAADKFwAPEY6gAxFIZAIEBEQGhEHE/////////38XBBOEU8Q=)

@@ -1,6 +1,6 @@
 # Dahl Blaster
 
-![](./assets/eTech-dahl-blaster.jpeg)
+![](./assets/etech_dahl_blaster.jpeg)
 
     Attack Blaster (Damage)
     BL2(hwAAAABmhgCBZgQ/BIFEamIQxDCNIQHDIYb//xUY/v9vYiDD0Izh) (Explosive)
@@ -53,7 +53,7 @@
 
 # Bandit BlASSter
 
-![](./assets/eTech-bandit-biasster.jpeg)
+![](./assets/etech_bandit_biasster.jpeg)
 
     Nassty BlASSter (Damage)
     BL2(hwAAAABivQCAhgQ/AoFExmIYxECNAQGDIYb//xUY/v/LYhjDwIzh)
@@ -106,7 +106,7 @@
 
 # Vladof Blaster
 
-![](./assets/eTech-vladof-blaster.jpeg)
+![](./assets/etech_vladof_blaster.jpeg)
 
     Ferocious Blaster (Damage)
     BL2(hwAAAAAehwCERgQ/CoFE3mIYxECNQQGDIob//xUY/v/jYjjD0Izh)
@@ -159,7 +159,7 @@
 
 # Bandit Dart
 
-![](./assets/eTech-bandit-dart.jpeg)
+![](./assets/etech_bandit_dart.jpeg)
 
     Homering Dart (Melee)
     BL2(hwAAAABNngCApwdAAoFEisNYhaEOQwHG/////yEw/v+Pw4CI4RDj)
@@ -212,7 +212,7 @@
 
 # Bandit Spiker
 
-![](./assets/eTech-bandit-spiker.jpeg)
+![](./assets/etech_bandit_spiker.jpeg)
 
     Murduerer's Spiker (Damage)
     BL2(hwAAAABdGwCApwdAAoFEisOIhZEOQwHG/////x0w/v+Pw+iC0RDj)
@@ -265,7 +265,7 @@
 
 # Dahl Dart
 
-![](./assets/eTech-dahl-dart.jpeg)
+![](./assets/etech_dahl_dart.jpeg)
 
     Neutralizing Dart (Damage)
     BL2(hwAAAAC0jQCBhwdABIFEmsOIhaEOowHG/////x0w/v+fw/CC4RDj)
@@ -318,7 +318,7 @@
 
 # Dahl Spiker
 
-![](./assets/eTech-dahl-spiker.jpeg)
+![](./assets/etech_dahl_spiker.jpeg)
 
     Neutralizing Spiker (Damage)
     BL2(hwAAAABXHwCBhwdABIFEmsOIhZEOowHG/////x0w/v+fw/CC0RDj)
@@ -371,7 +371,7 @@
 
 # Hyperion Dart
 
-![](./assets/eTech-hyperion-dart.jpeg)
+![](./assets/etech_hyperion_dart.jpeg)
 
     Win-Win Dart (Damage)
     BL2(hwAAAAAg9QCCZwdADIFEosOIhaEOIwLG/////x0w/v+vw/iC4RDj)
@@ -424,7 +424,7 @@
 
 # Hyperion Spiker
 
-![](./assets/eTech-hyperion-spiker.jpeg)
+![](./assets/etech_hyperion_spiker.jpeg)
 
     Win-Win Spiker (Damage)
     BL2(hwAAAADDZwCCZwdADIFEosOIhZEOIwLG/////x0w/v+vw/iC0RDj)
@@ -477,7 +477,7 @@
 
 # Maliwan Dart
 
-![](./assets/eTech-maliwan-dart.jpeg)
+![](./assets/etech_maliwan_dart.jpeg)
 
     Potent Dart (Damage)
     BL2(hwAAAADMWACGRwdAEIFEusOIhaEO4wHG/////x0w/v+/wwiD4RDj)
@@ -530,7 +530,7 @@
 
 # Maliwan Spiker
 
-![](./assets/eTech-maliwan-spiker.jpeg)
+![](./assets/etech_maliwan_spiker.jpeg)
 
     Potent Spiker (Damage)
     BL2(hwAAAAAvygCGRwdAEIFEusOIhZEO4wHG/////x0w/v+/wwiD0RDj)
@@ -584,7 +584,7 @@
 
 # Tediore Dart
 
-![](./assets/eTech-tediore-dart.jpeg)
+![](./assets/etech_tediore_dart.jpeg)
 
     Super Dart (Damage)
     BL2(hwAAAADqKACDJwdADoFEysOIhaEOYwHG/////x0w/v/PwxCD4RDj)
@@ -637,7 +637,7 @@
 
 # Tediore Spiker
 
-![](./assets/eTech-tediore-spiker.jpeg)
+![](./assets/etech_tediore_spiker.jpeg)
 
     Super Spiker (Damage)
     BL2(hwAAAAAJugCDJwdADoFEysOIhZEOYwHG/////x0w/v/PwxCD0RDj)
@@ -690,7 +690,7 @@
 
 # Vladof Dart
 
-![](./assets/eTech-vladof-dart.jpeg)
+![](./assets/etech_vladof_dart.jpeg)
 
     Purging Dart (Damage)
     BL2(hwAAAAB8kgCEBwdACoFE6sOIhaEOgwHG/////x0w/v/vwyCD4RDj)
@@ -743,7 +743,7 @@
 
 # Vladof Spiker
 
-![](./assets/eTech-vladof-spiker.jpeg)
+![](./assets/etech_vladof_spiker.jpeg)
 
     Purging Spiker (Damage)
     BL2(hwAAAACfAACEBwdACoFE6sOIhZEOgwHG/////x0w/v/vwyCD0RDj)
@@ -796,7 +796,7 @@
 
 # Bandit Plasma Caster
 
-![](./assets/eTech-bandit-plasma-caster.jpeg)
+![](./assets/etech_bandit_plasma_caster.jpeg)
 
     Murduring Plasma Caster (Damage)
     BL2(hwAAAAAIrgBAqARBAoFExmIxwSKNBQFLCpb//xRY/v/3YuHBYozl)
@@ -835,7 +835,7 @@
 
 # Dahl Plasma Caster
 
-![](./assets/eTech-dahl-plasma-caster.jpeg)
+![](./assets/etech_dahl_plasma_caster.jpeg)
 
     Stopping Plasma Caster (Damage)
     BL2(hwAAAAAO8ABBiARBBIFEnmIxwTKNJQGLCpb//xRY/v+jYunBYozl)
@@ -874,7 +874,7 @@
 
 # Hyperion Plasma Caster
 
-![](./assets/eTech-hyperion-plasma-caster.jpeg)
+![](./assets/etech_hyperion_plasma_caster.jpeg)
 
     Rightsizing Plasma Caster (Damage)
     BL2(hwAAAAAfPQBCaARBDIFEpmIxwTKNZQELC5b//xRY/v+rYvHBYozl)
@@ -913,7 +913,7 @@
 
 # Maliwan Plasma Caster
 
-![](./assets/eTech-maliwan-plasma-caster.jpeg)
+![](./assets/etech_maliwan_plasma_caster.jpeg)
 
     Cosummate Plasma Caster (Damage)
     BL2(hwAAAADVhgBDSARBEIFErmIxwTKNRQHLCpb//xRY/v+3YvnBYozl)
@@ -952,7 +952,7 @@
 
 # Tediore Plasma Caster
 
-![](./assets/eTech-tediore-plasma-caster.jpeg)
+![](./assets/etech_tediore_plasma_caster.jpeg)
 
     Hefty Plasma Caster (Damage)
     BL2(hwAAAADi8wBEKARBDoFEvmIxwTKN5QALCpb//xRY/v/DYgHCYozl)
@@ -991,7 +991,7 @@
 
 # Bandit Splasher Blashter
 
-![](./assets/eTech-bandit-splasher-blashter.jpeg)
+![](./assets/etech_bandit_splasher_blashter.jpeg)
 
     Redy Stedy Splasher Blashter (Increased Overall)
     BL2(hwAAAAByUgABqIRAAoFEikJRgzINxQBKG5T//w5Q/v+PQumB0gvl)
@@ -1037,7 +1037,7 @@
 
 # Hyperion Splatgun
 
-![](./assets/eTech-hyperion-splatgun.jpeg)
+![](./assets/etech_hyperion_splatgun.jpeg)
 
     Social Splatgun (Increased Overall)
     BL2(hwAAAAAeHgACiIRADIFEkkJRgyINRQEKG5T//w5Q/v+XQvGB4gvl)
@@ -1083,7 +1083,7 @@
 
 # Tediore Splatgun
 
-![](./assets/eTech-tediore-splatgun.jpeg)
+![](./assets/etech_tediore_splatgun.jpeg)
 
     New and Improved Splatgun (Increased Overall)
     BL2(hwAAAABtwAADaIRADoFEokJRgzIN5QDKG5T//w5Q/v+nQgGC4gvl)
@@ -1129,7 +1129,7 @@
 
 # Dahl Railer
 
-![](./assets/eTech-dahl-railer.jpeg)
+![](./assets/etech_dahl_railer.jpeg)
 
     Pacifying Railer (Damage)
     BL2(hwAAAAD8BACBCINBBIFEdoJZAKMJZgXMBJj//2Rg/v97gmEEMwvm)
@@ -1182,7 +1182,7 @@
 
 # Hyperion Hybridfication
 
-![](./assets/eTech-hyperion-hybridfication.jpeg)
+![](./assets/etech_hyperion_hybridfication.jpeg)
 
     Auditing Hybridification (Damage)
     BL2(hwAAAABYYgCAaINBDIFEboJZAKMJ5gUMBZj//2Rg/v9zgmkEQwvm)
@@ -1235,7 +1235,7 @@
 
 # Maliwan Railer
 
-![](./assets/eTech-maliwan-railer.jpeg)
+![](./assets/etech_maliwan_railer.jpeg)
 
     Barking Railer (Damage)
     BL2(hwAAAADT8wCDSINBEIFEioJZAKMJpgWMBZj//2Rg/v+PgnkEUwvm)
@@ -1288,7 +1288,7 @@
 
 # Vladof Moloko
 
-![](./assets/eTech-vladof-moloko.jpeg)
+![](./assets/etech_vladof_moloko.jpeg)
 
     Gromky Moloko (Damage)
     BL2(hwAAAADt2QCCKINBCoFEmoJZAKMJhgXMBZj//2Rg/v+fgoEEYwvm)
@@ -1341,7 +1341,7 @@
 
 # Bandit PRAZMA CANON
 
-![](./assets/eTech-bandit-prasma-canon.jpeg)
+![](./assets/etech_bandit_prasma_canon.jpeg)
 
     Big PRAZMA CANNON (Damage)
     BL2(hwAAAAAsIgBDJ4Q/AoFEXqIgQ+GLIgCFG4r//xwo/v8boDBBIYvi)
@@ -1394,7 +1394,7 @@
 
 # Maliwan PBFG
 
-![](./assets/eTech-maliwan-pbfg.jpeg)
+![](./assets/etech_maliwan_pbfg.jpeg)
 
     Puissant PBFG (Damage)
     BL2(hwAAAAASdgBEB4Q/EIFEVqIgQ9GLggCFG4r//xwo/v87oDhBAYvi)
@@ -1447,7 +1447,7 @@
 
 # Tediore Launcher
 
-![](./assets/eTech-tediore-launcher.jpeg)
+![](./assets/etech_tediore_launcher.jpeg)
 
     Large Launcher (Damage)
     BL2(hwAAAACHywBA54M/DoFEZqIgQ/GLQgCFG4r//xwo/v8joEBB0YXi)
@@ -1500,7 +1500,7 @@
 
 # Vladof Topneaa
 
-![](./assets/eTech-vladof-topneaa.jpeg)
+![](./assets/etech_vladof_topneaa.jpeg)
 
     Rugged Topneaa (Damage)
     BL2(hwAAAAAFYwBCx4M/CoFElqIgQ7GLYgCFG4r//xwo/v8roFBB8Yri)

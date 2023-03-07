@@ -1,36 +1,36 @@
 # Blood of Terramorphous
 
-![](./assets/relic-blood-of-terramorphous.jpeg)
+![](./assets/relic_blood_of_terramorphous.jpeg)
 
     BL2(BwAAAADOzAAZC2DYIBG9HgDA////////////fw1ABcA=)
 
 # Shadow of the Seraphs
 
-![](./assets/relic-shadow-of-the-seraphs.jpeg)
+![](./assets/relic_shadow_of_the_seraphs.jpeg)
 
     BL2(BwAAAADsDwkCEwWYMBG9HgDA////////////vwAgAuA=)
 
 # Breath of the Seraphs
 
-![](./assets/relic-breath-of-the-seraphs.jpeg)
+![](./assets/relic_breath_of_the_seraphs.jpeg)
 
     BL2(BwAAAAAxugQADgGoMBG9HgCABsD/////////PwCjAeM=)
 
 # Blood of the Seraphs
 
-![](./assets/relic-blood-of-the-seraphs.jpeg)
+![](./assets/relic_blood_of_the_seraphs.jpeg)
 
     BL2(BwAAAAAdZQEAAQEIMBG9ngDh////////////PwBhAOE=)
 
 # Might of the Seraphs
 
-![](./assets/relic-might-of-the-seraphs.jpeg)
+![](./assets/relic_might_of_the_seraphs.jpeg)
 
     BL2(BwAAAAA61wMEDQnAUBG9HgCABsD/////////vwrABeD/PwJgAuA=)
 
 # Blood of the Ancients
 
-![](./assets/relic-blood-of-the-ancients.jpeg)
+![](./assets/relic_blood_of_the_ancients.jpeg)
 
 
     Max Health +54.4% / Assault Rifle Max Ammo +75.5% / SMG Max Ammo +75.5% 
@@ -80,7 +80,7 @@
 
 #  Bone of the Ancients
 
-![](./assets/relic-bone-of-the-ancients.jpeg)
+![](./assets/relic_bone_of_the_ancients.jpeg)
 
     Corrosive Damage +33% / Cooldown Rate +39.4%)
     BL2(BwAAAADMAwgCAAUIUBG9XgDABQAKwP//////vwSgAuA=) 
@@ -93,7 +93,7 @@
 
 # Skin of the Ancients
 
-![](./assets/relic-skin-of-the-ancients.jpeg)
+![](./assets/relic_skin_of_the_ancients.jpeg)
 
     Fire Resistance +26.3% / Corrosive +25.8% / Explosive +27.0% / Shield Recharge Rate +33.3%
     BL2(BwAAAAD6iQgBAAMIkBG9ngDACYAIwA3A////fwSgAuA=) 
@@ -151,7 +151,7 @@
 
 # Heart of the Ancients
 
-![](./assets/relic-heart-of-the-ancients.jpeg)
+![](./assets/relic_heart_of_the_ancients.jpeg)
 
     Assault Rifle Damage +33% / FFYL Time +33.3% / Second Wind Health +162% 
     BL2(BwAAAACNuwgDAAcIUBG9HgCABkAIgA7A/////wSgAuA=) 
@@ -173,7 +173,7 @@
 
 # Aggression Relics
 
-![](./assets/relic-agression-relics.jpeg)
+![](./assets/relic_agression_relics.jpeg)
 
     Assault Rifle Damage +33,3%
     BL2(BwAAAAClMQAJC0DYIBG9HgBAAMD/////////fwtABcA=)
@@ -195,19 +195,19 @@
 
 # Proficiency Relics
 
-![](./assets/relic-proficiency-relic.jpeg)
+![](./assets/relic_proficiency_relic.jpeg)
 
     BL2(BwAAAADb8wAICz7YIBG9HgDA////////////fwZABcA=)
 
 # Protection Relics
 
-![](./assets/relic-protection-relic.jpeg)
+![](./assets/relic_protection_relic.jpeg)
 
     BL2(BwAAAAALxgACCzLYYBG9HgCABsD//////////wZABcA=)
 
 # Stockpile Relics
 
-![](./assets/relic-stockpile-relic.jpeg)
+![](./assets/relic_stockpile_relic.jpeg)
 
     Assaut Rifle Max Ammo +75,5% 
     SMG Max Ammo +75,5% 
@@ -397,19 +397,19 @@
 
 # Sheriff's Badge
 
-![](./assets/relic-sheriff-badge.jpeg)
+![](./assets/relic_sheriff_badge.jpeg)
 
     BL2(BwAAAACzNQAaC2LYIBG9HgCAAIAGwP//CAAPwAxABcA=)
 
 # Strength Relic
 
-![](./assets/relic-strength-relic.jpeg)
+![](./assets/relic_strength_relic.jpeg)
 
     BL2(BwAAAABYaQADCzTYYBG9HgCABsD/////////vwpABcA=)
 
 # Allegiance Relics
 
-![](./assets/relic-allegiance-relic.jpeg)
+![](./assets/relic_allegiance_relic.jpeg)
 
     Maliwan - Damage + 33% Fire Rate + 24%
     BL2(BwAAAADJXAATC1TYoBG9HgDA/38IwP//////vwtABcA=)
@@ -485,13 +485,13 @@
 
 # Vitality Relic
 
-![](./assets/relic-vitality-relic.jpeg)
+![](./assets/relic_vitality_relic.jpeg)
 
     BL2(BwAAAACNqwAACy7YIBG9HgDA/////////////wpABcA=)
 
 # Resistance Relics
 
-![](./assets/relic-resistance-relic.jpeg)
+![](./assets/relic_resistance_relic.jpeg)
 
     Fire Resistance
     Shock Resistance 
@@ -573,7 +573,7 @@
 
 # Elemental Relics
 
-![](./assets/relic-elemental-relic.jpeg)
+![](./assets/relic_elemental_relic.jpeg)
 
     Explosive Damage + 33%
     BL2(BwAAAADt0gAFCzjYIBG9XgDA////////////fwFABcA=)
@@ -592,48 +592,48 @@
 
 # Tenacity Relics
 
-![](./assets/relic-tenacity-relic.jpeg)
+![](./assets/relic_tenacity_relic.jpeg)
 
     BL2(BwAAAABHCQAHCzzYYBG9HgCABsD/////////PwtABcA=)
 
 # Moxxi's Endowment Relic
 
-![](./assets/relic-moxxi-endowment.jpeg)
+![](./assets/relic_moxxi_endowment.jpeg)
 
     BL2(BwAAAADtfgAcC2bYIBG9HgDA////////////PwxABMA=)
 
 # Lucrative Opportunity
 
-![](./assets/relic-lucrative-opportunity.jpeg)
+![](./assets/relic_lucrative_opportunity.jpeg)
 
     BL2(BwAAAACaLAAXC1zYIBG9HgDA////////////fwxABMA=)
 
 # Vault Hunters Relic
 
-![](./assets/relic-vault-hunter-relic.jpeg)
+![](./assets/relic_vault_hunter_relic.jpeg)
 
     BL2(BwAAAAAdYQAYC17YIBG9HgBAAMD/////////Pw2AA8A=)
 
 # The Afterburner
 
-![](./assets/relic-the-afterburner.jpeg)
+![](./assets/relic_the_afterburner.jpeg)
 
     BL2(BwAAAACq5gAeC2rYIBG9HgCABsD/fwjA/////wtABMA=)
 
 # Mysterious Amulet
 
-![](./assets/relic-mysterious-amulet.jpeg)
+![](./assets/relic_mysterious_amulet.jpeg)
 
     BL2(BwAAAACIIQkBEwOYMBG9HgDA////////////fwBgAuA=)
 
 # Captain Blade's Otto Idol
 
-![](./assets/relic-otto-idol.jpeg)
+![](./assets/relic_otto_idol.jpeg)
 
     BL2(BwAAAABxFAEBAQMIMBG9HgCABsD//////////wBhBMA=)
 
 # Deputy's Badge
 
-![](./assets/relic-deputy-badge.jpeg)
+![](./assets/relic_deputy_badge.jpeg)
 
     BL2(BwAAAAApSQAdC2jYIBG9HgCAAIAGwP//CAAPgAxABMA=)

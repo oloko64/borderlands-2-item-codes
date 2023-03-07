@@ -1,6 +1,6 @@
 # Tunguska
 
-![](./assets/launcher-tunguska.jpeg)
+![](./assets/launcher_tunguska.jpeg)
 
     derp Tunguska (Damage)
     BL2(hwAAAAAIMAhBBwAACYFEGgAkQwEAsACFGwoIFBwo/v9nAExBkQDw)
@@ -25,7 +25,7 @@
 
 # Ahab
 
-![](./assets/launcher-ahab.jpeg)
+![](./assets/launcher_ahab.jpeg)
 
     derp Ahab (Damage)
     BL2(hwAAAACpNQFBRwIACYFEbqIgQzEGsACFGwoIFBwo/v/DAUxBQQbw)
@@ -50,7 +50,7 @@
 
 # ERROR MESSAGE
 
-![](./assets/launcher-error-message.jpeg)
+![](./assets/launcher_error_message.jpeg)
 
     Boosh a ERROR MESSAGE (Torgue Grip)
     BL2(hwAAAACV9AFB54IDCYFETiAkQ0GB8P+/G4r///////9roshBgoPw)
@@ -69,7 +69,7 @@
 
 # Badaboom
 
-![](./assets/launcher-badaboom.jpeg)
+![](./assets/launcher_badaboom.jpeg)
 
     Big Badaboom  (Damage)
     BL2(hwAAAABl8QBDp4I/AoFEXqIAQ9GJIgCFGgoIFBwo/v97ojBBkYri) (Explosive)
@@ -122,7 +122,7 @@
 
 # Norfleet
 
-![](./assets/launcher-norfleet.jpeg)
+![](./assets/launcher_norfleet.jpeg)
 
     Puissant Norfleet (Damage)
     BL2(hwAAAAAYKQBER4M/EIFEVqIYQ8GLggBFG4r//xwo/v/TojhBAYzi) (Explosive)
@@ -175,7 +175,7 @@
 
 # Pyrophobia
 
-![](./assets/launcher-pyrophobia.jpeg)
+![](./assets/launcher_pyrophobia.jpeg)
 
     Puissant Pyrophobia (Damage)
     BL2(hwAAAAB1HgBEx4I/EIFEVqIYQ/GJggBFG4r//xwo/v+DojhBoYri) (Explosive)
@@ -207,7 +207,7 @@
 
 # Bunny
 
-![](./assets/launcher-bunny.jpeg)
+![](./assets/launcher_bunny.jpeg)
 
     Large Bunny (Damage)
     BL2(hwAAAAAmaABA54I/DoFEZqIIQxGKQgDFGgoIFBwo/v+LokBBsYri) (Explosive)
@@ -260,7 +260,7 @@
 
 # Nukem
 
-![](./assets/launcher-nuken.jpeg)
+![](./assets/launcher_nuken.jpeg)
 
     derp Nukem (Damage)
     BL2(hwAAAACRqABBB4M/CIFEbqIgQzGKogCFGwoIFBwo/v+TokhBwYri)
@@ -285,7 +285,7 @@
 
 # Mongol
 
-![](./assets/launcher-mongol.jpeg)
+![](./assets/launcher_mongol.jpeg)
 
     Rugged Mongol (Damage)
     BL2(hwAAAADhhQBCJ4M/CoFElqIQQ2GKYgAFGwoIFBwo/v+folBB0Yri) (Explosive)
@@ -338,7 +338,7 @@
 
 # Roaster
 
-![](./assets/launcher-roaster.jpeg)
+![](./assets/launcher_roaster.jpeg)
 
     Big Roaster (Damage)
     BL2(hwAAAACB1QBDh4M/AoFEAqAAQ5GLIgCFGgoIFBwo/v/bojBBMYzi) (Explosive)
@@ -398,7 +398,7 @@
 
 # Hive
 
-![](./assets/launcher-hive.jpeg)
+![](./assets/launcher_hive.jpeg)
 
     Puissant Hive (Damage)
     BL2(hwAAAAD0egBEZ4M/EIFENqAYQ4GLggBFG4r//xwo/v/XojhBIYzi) (Explosive)
@@ -434,7 +434,7 @@
 
 # 12 Pounder
 
-![](./assets/launcher-12-pounder.jpeg)
+![](./assets/launcher_12_pounder.jpeg)
 
     derp 12 Pounder (Damage)
     BL2(hwAAAADjKgFBB4IDCYFELqAgQ3GCsACFGwoIFBwo/v+nIExBgYLw)
@@ -462,7 +462,7 @@
 
 # Creamer
 
-![](./assets/launcher-creamer.jpeg)
+![](./assets/launcher_creamer.jpeg)
 
     derp Creamer (Damage)
     BL2(hwAAAACd5gBB54E/CIFELqAgQxGJogCFGwoIFBwo/v9LokhBMYni)
@@ -487,7 +487,7 @@
 
 # boom
 
-![](./assets/launcher-boom.jpeg)
+![](./assets/launcher_boom.jpeg)
 
     derp boom (Damage)
     BL2(hwAAAAC8+wRBB4AICYFEAqAgQwGA8f+/GwoIFBwo/v8boEhBUYfi)

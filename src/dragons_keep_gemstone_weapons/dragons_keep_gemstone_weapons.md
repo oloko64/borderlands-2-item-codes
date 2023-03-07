@@ -1,6 +1,6 @@
 # Quartz Assault Rifles
 
-![](./assets/dragonKeep-quartz-rifle.jpeg)
+![](./assets/dragonkeep_quartz_rifle.jpeg)
 
     Quartz Ass Beeeter!
     BL2(hwAAAAAPSgmAxgIMA9HrxWIYxDCAAQGDIYYHDBUY/v+7IFxBKIPh)
@@ -46,7 +46,7 @@
 
 # Emerald Assault Rifles
 
-![](./assets/dragonKeep-emerald-rifle.jpeg)
+![](./assets/dragonkeep_emerald_rifle.jpeg)
 
     Emerald Defender
     BL2(hwAAAAClrAmBhgMMBdHraWIYxDCAIQHDIYYHDBUY/v/TICxBOIPh)
@@ -92,7 +92,7 @@
 
 # Citrine Assault Rifles
 
-![](./assets/dragonKeep-citrine-rifle.jpeg)
+![](./assets/dragonkeep_citrine_rifle.jpeg)
 
     Citrine Rifle
     BL2(hwAAAAB6ZAmCpgMMB9HrzWIYxBCAgQEDIob//xUY/v/XINxASInh)
@@ -114,7 +114,7 @@
 
 # Rock Assault Rifles
 
-![](./assets/dragonKeep-rock-rifle.jpeg)
+![](./assets/dragonkeep_rock_rifle.jpeg)
 
     Rock Rifle
     BL2(hwAAAAAWfAmD5gIMCdHr1WIYxBCAYQFDIob//xUY/v+/IORASInh)
@@ -136,7 +136,7 @@
 
 # Garnet Assault Rifles
 
-![](./assets/dragonKeep-garnet-rifle.jpeg)
+![](./assets/dragonkeep_garnet_rifle.jpeg)
 
     Garnet Guerilla
     BL2(hwAAAAAQLgmExgMMC9Hr3WIYxDCAQQGDIoYHDBUY/v/bIExBaIPh)
@@ -182,7 +182,7 @@
 
 # Garnet Pistols
 
-![](./assets/dragonKeep-garnet-pistol.jpeg)
+![](./assets/dragonkeep_garnet_pistol.jpeg)
 
     Garnet Fighter
     BL2(hwAAAAAwjwmEJwIMC9Hr6cOIhXEAgwHG//8KGB0w/v+fIExB2Afj)
@@ -242,7 +242,7 @@
 
 # Diamond Pistols
 
-![](./assets/dragonKeep-diamond-pistol.jpeg)
+![](./assets/dragonkeep_diamond_pistol.jpeg)
 
     Diamond Spiker (E-Tech)
     BL2(hwAAAAD0UQmCxwEMDdHrocOIhZEOIwLG//8KGB0w/v+PIMxA2BDj)
@@ -316,7 +316,7 @@
 
 # Quartz Pistols
 
-![](./assets/dragonKeep-quartz-pistol.jpeg)
+![](./assets/dragonkeep_quartz_pistol.jpeg)
 
     Quartz Ass Beeter!
     BL2(hwAAAABp7QmARwIMA9HricOIhXEAQwHG//8KGB0w/v+jIFxBaAfj)
@@ -376,7 +376,7 @@
 
 # Emerald Pistols
 
-![](./assets/dragonKeep-emerald-pistol.jpeg)
+![](./assets/dragonkeep_emerald_pistol.jpeg)
 
     Emerald Peacemaker
     BL2(hwAAAACY0gmB5wEMBdHrmcOIhXEAowHG//8KGB0w/v+TICxBeAfj)
@@ -436,7 +436,7 @@
 
 # Citrine Pistols
 
-![](./assets/dragonKeep-citrine-pistol.jpeg)
+![](./assets/dragonkeep_citrine_pistol.jpeg)
 
     Citrine Iron
     BL2(hwAAAABAvQmHhwEMB9HrscOIhXEAAwLG/////x0w/v+DINxAmAfj)
@@ -462,7 +462,7 @@
 
 # Aquamarine Pistols
 
-![](./assets/dragonKeep-aquamarine-pistol.jpeg)
+![](./assets/dragonkeep_aquamarine_pistol.jpeg)
 
     Aquamarine Torment
     BL2(hwAAAAAOngmGpwEMEdHrucOIhXEA4wHG//8KGB0w/v+LINRAqAfj)
@@ -514,7 +514,7 @@
 
 # Cubic Zerconia Pistols
 
-![](./assets/dragonKeep-cubic-zerconia-pistol.jpeg)
+![](./assets/dragonkeep_cubic_zerconia_pistol.jpeg)
 
     Cubic Zerconia Power Shot
     BL2(hwAAAAAXJAmDBwIMD9HrycOIhXEAYwHG//8KGB0w/v+bIFRBuAfj)
@@ -574,7 +574,7 @@
 
 # Rock Pistols
 
-![](./assets/dragonKeep-rock-pistol.jpeg)
+![](./assets/dragonkeep_rock_pistol.jpeg)
 
     Rock Rod
     BL2(hwAAAABOsgmFZwEMCdHr2cOIhXEAwwHG/////x0w/v+HIORAyAfj)
@@ -602,7 +602,7 @@
 
 # Diamond Shotguns
 
-![](./assets/dragonKeep-diamond-shotgun.jpeg)
+![](./assets/dragonkeep_diamond_shotgun.jpeg)
 
     Diamond Thinking
     BL2(hwAAAACrWQkCKAEMDdHrkUJRgzIARQEKG5QLKBJQ/v93IMxAmAXl)
@@ -641,7 +641,7 @@
 
 # Cubic Zerconia Shotguns
 
-![](./assets/dragonKeep-cubic-zerconia-shotgun.jpeg)
+![](./assets/dragonkeep_cubic_zerconia_shotgun.jpeg)
 
     Cubic Zerconia Sportsman
     BL2(hwAAAADlAAkDKAMMD9HroUJRgzIA5QDKG5QLKBJQ/v/HIFRBuAXl)
@@ -680,7 +680,7 @@
 
 # Quartz Shotguns
 
-![](./assets/dragonKeep-quartz-shotgun.jpeg)
+![](./assets/dragonkeep_quartz_shotgun.jpeg)
 
     Quartz longer ragne kilier
     BL2(hwAAAABMJgkBqAIMA9HriUJRgzIAxQBKG5QLKBJQ/v+3IFxBiAXl)
@@ -719,7 +719,7 @@
 
 # Rock Shotguns
 
-![](./assets/dragonKeep-rock-shotgun.jpeg)
+![](./assets/dragonkeep_rock_shotgun.jpeg)
 
     Rock Ravager
     BL2(hwAAAACx/gkESAEMCdHrqUJRg4ICBQGKG5T//xpQ/v9/IORA6Anl)
@@ -768,7 +768,7 @@
 
 # Citrine Shotguns
 
-![](./assets/dragonKeep-citrine-shotgun.jpeg)
+![](./assets/dragonkeep_citrine_shotgun.jpeg)
 
     Citrine Bushwack
     BL2(hwAAAACTpAkA6AAMB9HrmUJRgxIAJQEKHJT//xJQ/v97INxAWAfl)
@@ -787,7 +787,7 @@
 
 # Emerald SMG's
 
-![](./assets/dragonKeep-emerald-smg.jpeg)
+![](./assets/dragonkeep_emerald_smg.jpeg)
 
     Emerald Fox
     BL2(hwAAAABszAlBCAMMBdHrnWIxwTKAJQGLChYHLBRY/v/DICxBOIXl)
@@ -826,7 +826,7 @@
 
 # Diamond SMG's
 
-![](./assets/dragonKeep-diamond-smg.jpeg)
+![](./assets/dragonkeep_diamond_smg.jpeg)
 
     Diamond Presence
     BL2(hwAAAAAlwwlCaAMMDdHrpWIxwTKAZQELCxYHLBRY/v/PIMxASIXl)
@@ -865,7 +865,7 @@
 
 # Quartz SMG's
 
-![](./assets/dragonKeep-quartz-smg.jpeg)
+![](./assets/dragonkeep_quartz_smg.jpeg)
 
     Quartz rokgun
     BL2(hwAAAADmYAlAiAIMA9HrxWIxwTKABQFLChYHLBRY/v+zIFxBKIXl)
@@ -904,7 +904,7 @@
 
 # Aguamarine SMG's
 
-![](./assets/dragonKeep-aquamarine-smg.jpeg)
+![](./assets/dragonkeep_aquamarine_smg.jpeg)
 
     Aquamarine Trance
     BL2(hwAAAAB+CQlDCAEMEdHrrWIxwTKARQHLChYHLBRY/v9bINRAWIXl)
@@ -938,7 +938,7 @@
 
 # Cubic Zerconia SMG's
 
-![](./assets/dragonKeep-cubic-zerconia-smg.jpeg)
+![](./assets/dragonkeep_cubic_zerconia_smg.jpeg)
 
     Cubic Zerconia Special
     BL2(hwAAAACJtglESAMMD9HrvWIxwTKA5QALChYHLBRY/v/LIFRBaIXl)
@@ -977,7 +977,7 @@
 
 # Emerald Snipers
 
-![](./assets/dragonKeep-emerald-sniper.jpeg)
+![](./assets/dragonkeep_emerald_sniper.jpeg)
 
     Emerald Terror
     BL2(hwAAAADQIgmBKAQMBdHrdYJZAAMBZgXMBBgcMGRg/v/nICxB2AHm)
@@ -1016,7 +1016,7 @@
 
 # Diamond Snipers
 
-![](./assets/dragonKeep-diamond-sniper.jpeg)
+![](./assets/dragonkeep_diamond_sniper.jpeg)
 
     Diamond Policy
     BL2(hwAAAAC1fwmACAQMDdHrbYJZAAMB5gUMBRgcMGRg/v/jIMxA6AHm)
@@ -1055,7 +1055,7 @@
 
 # Citrine Snipers
 
-![](./assets/dragonKeep-citrine-sniper.jpeg)
+![](./assets/dragonkeep_citrine_sniper.jpeg)
 
     Citrine Muckamuck
     BL2(hwAAAAD4UQmE6AMMB9HrgYJZAAMBxgVMBZj//2Rg/v/fINxA+AHm)
@@ -1074,7 +1074,7 @@
 
 # Garnet Snipers
 
-![](./assets/dragonKeep-garnet-sniper.jpeg)
+![](./assets/dragonkeep_garnet_sniper.jpeg)
 
     Garnet Horrorshow
     BL2(hwAAAAByVwmCSAQMC9HrmYJZAAMBhgXMBRgcMGRg/v/rIExBGALm)

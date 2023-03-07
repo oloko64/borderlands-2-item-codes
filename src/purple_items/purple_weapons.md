@@ -1,6 +1,6 @@
 # Bandit Assault Rifle
 
-![](./assets/weapons-bandit-rifle.jpeg)
+![](./assets/weapons_bandit_rifle.jpeg)
 
     Spinigun
     BL2(hwAAAAAZ5gCAhgI/AoFExmIYxGCAAQGDIYYGDBUY/v/LYhjDwIPh)
@@ -46,7 +46,7 @@
 
 # Dahl Assault Rifle
 
-![](./assets/weapons-dahl-rifle.jpeg)
+![](./assets/weapons_dahl_rifle.jpeg)
 
     Minigun
     BL2(hwAAAABt8wCBZgE/BIFEamIYxGCAIQHDIYYGDBUY/v9vYiDD0IPh)
@@ -92,7 +92,7 @@
 
 # Jakobs Assault Rifle
 
-![](./assets/weapons-jakobs-rifle.jpeg)
+![](./assets/weapons_jakobs_rifle.jpeg)
 
     Gatling Gun
     BL2(hwAAAACrZACCpgI/BoFEzmIYxGCAgQEDIob//xUY/v/TYijD4IPh)
@@ -114,7 +114,7 @@
 
 # Torgue Assault Rifle
 
-![](./assets/weapons-torgue-rifle.jpeg)
+![](./assets/weapons_torgue_rifle.jpeg)
 
     Spitter
     BL2(hwAAAAB2tQCDxgI/CIFE1mIYxGCAYQFDIob//xUY/v/bYjDD8IPh)
@@ -136,7 +136,7 @@
 
 # Vladof Assault Rifle
 
-![](./assets/weapons-vladof-rifle.jpeg)
+![](./assets/weapons_vladof_rifle.jpeg)
 
     Spinigun
     BL2(hwAAAACdggCE5gI/CoFE3mIYxGCAQQGDIoYGDBUY/v/jYjjDAITh)
@@ -182,7 +182,7 @@
 
 # Bandit Pistol
 
-![](./assets/weapons-bandit-pistol.jpeg)
+![](./assets/weapons_bandit_pistol.jpeg)
 
     Pistal
     BL2(hwAAAAALOwCAhwNAAoFEisOIhREAQwHG/38JGB0w/v+Pw+iCIQzj)
@@ -242,7 +242,7 @@
 
 # Dahl Pistol
 
-![](./assets/weapons-dahl-pistol.jpeg)
+![](./assets/weapons_dahl_pistol.jpeg)
 
     Repeater
     BL2(hwAAAAAqjgCBxwNABIFEmsOIhREAowHG/38JGB0w/v+fw/CCMQzj)
@@ -302,7 +302,7 @@
 
 # Hyperion Pistol
 
-![](./assets/weapons-hyperion-pistol.jpeg)
+![](./assets/weapons_hyperion_pistol.jpeg)
 
     Apparatus
     BL2(hwAAAABelQCCZwRADIFEosOIhREAIwLG/38JGB0w/v+vw/iCQQzj)
@@ -362,7 +362,7 @@
 
 # Jakobs Pistol
 
-![](./assets/weapons-jakobs-pistol.jpeg)
+![](./assets/weapons_jakobs_pistol.jpeg)
 
     Revolver
     BL2(hwAAAACYOwCHRwRABoFEssOIhREAAwLG/////x0w/v+3wwCDsQzj)
@@ -387,7 +387,7 @@
     
 # Maliwan Pistol
 
-![](./assets/weapons-maliwan-pistol.jpeg)
+![](./assets/weapons_maliwan_pistol.jpeg)
 
     Aegis
     BL2(hwAAAACDCwCGJwRAEIFEusOIhREA4wHG/////x0w/v+/wwiDYQzj)
@@ -447,7 +447,7 @@
 
 # Tediore Pistol
 
-![](./assets/weapons-tediore-pistol.jpeg)
+![](./assets/weapons_tediore_pistol.jpeg)
 
     Quickshot
     BL2(hwAAAABq4gCDpwNADoFEysOIhTEAYwHG/38JGB0w/v/PwxCDsQjj)
@@ -507,7 +507,7 @@
 
 # Torgue Pistol
 
-![](./assets/weapons-torgue-pistol.jpeg)
+![](./assets/weapons_torgue_pistol.jpeg)
 
     Injector
     BL2(hwAAAADAjgCFBwRACIFE2sOIhTEAwwHG/////x0w/v/fwxiDwQjj)
@@ -535,7 +535,7 @@
 
 # Vladof Pistol
 
-![](./assets/weapons-vladof-pistol.jpeg)
+![](./assets/weapons_vladof_pistol.jpeg)
 
     TMP
     BL2(hwAAAAAlOACE5wNACoFE6sOIhUEAgwHG/38JGB0w/v/vwyCDgQzj)
@@ -595,7 +595,7 @@
 
 # Bandit SMG
 
-![](./assets/weapons-bandit-smg.jpeg)
+![](./assets/weapons_bandit_smg.jpeg)
 
     Smig
     BL2(hwAAAAAzaQBAKAJBAoFExmIxwRKABQFLChYGLBRY/v/3YuHB4oLl)
@@ -634,7 +634,7 @@
 
 # Dahl SMG
 
-![](./assets/weapons-dahl-smg.jpeg)
+![](./assets/weapons_dahl_smg.jpeg)
 
     SMG
     BL2(hwAAAAA0+wBBaAJBBIFEnmIxwRKAJQGLChYGLBRY/v+jYunBAonl)
@@ -673,7 +673,7 @@
 
 # Hyperion SMG
 
-![](./assets/weapons-hyperion-smg.jpeg)
+![](./assets/weapons_hyperion_smg.jpeg)
 
     Projectile Convergence
     BL2(hwAAAAAx1wBCqAJBDIFEpmIxwRKAZQELCxYGLBRY/v+rYvHBIonl)
@@ -712,7 +712,7 @@
 
 # Maliwan SMG
 
-![](./assets/weapons-maliwan-smg.jpeg)
+![](./assets/weapons_maliwan_smg.jpeg)
 
     Gospel
     BL2(hwAAAACVGQBDiAJBEIFErmIxwVKARQHLChYHLBRY/v+3YvnBooXl)
@@ -746,7 +746,7 @@
 
 # Tediore SMG
 
-![](./assets/weapons-tediore-smg.jpeg)
+![](./assets/weapons_tediore_smg.jpeg)
 
     Subcompact MG
     BL2(hwAAAAB7aQBESAJBDoFEvmIxwRKA5QALChYGLBRY/v/DYgHCYonl)
@@ -785,7 +785,7 @@
 
 # Bandit Shotgun
 
-![](./assets/weapons-bandit-shotgun.jpeg)
+![](./assets/weapons_bandit_shotgun.jpeg)
 
     Oberkill!
     BL2(hwAAAAA0jQABSIJAAoFEikJRg4ICxQBKG5QKKBJQ/v+PQgmDognl)
@@ -824,7 +824,7 @@
 
 # Hyperion Shotgun
 
-![](./assets/weapons-hyperion-shotgun.jpeg)
+![](./assets/weapons_hyperion_shotgun.jpeg)
 
     Development
     BL2(hwAAAAB6nAACyIJADIFEkkJRg4ICRQEKG5QKKBJQ/v+XQhGDsgnl)
@@ -863,7 +863,7 @@
 
 # Jakobs Shotgun
 
-![](./assets/weapons-jakobs-shotgun.jpeg)
+![](./assets/weapons_jakobs_shotgun.jpeg)
 
     Quad
     BL2(hwAAAABG+AAAqIJABoFEmkJRg4ICJQEKHJT//xJQ/v+fQhmDwgnl)
@@ -882,7 +882,7 @@
 
 # Tediore Shotgun
 
-![](./assets/weapons-tediore-shotgun.jpeg)
+![](./assets/weapons_tediore_shotgun.jpeg)
 
     Shotgun Supreme!
     BL2(hwAAAACZmQADaIJADoFEokJRg4IC5QDKG5QKKBJQ/v+nQiGD0gnl)
@@ -921,7 +921,7 @@
 
 # Torgue Shotgun
 
-![](./assets/weapons-torgue-shotgun.jpeg)
+![](./assets/weapons_torgue_shotgun.jpeg)
 
     Ravager
     BL2(hwAAAACnmAAEiIJACIFEqkJRg4ICBQGKG5T//xJQ/v+vQimD4gnl)
@@ -940,7 +940,7 @@
 
 # Dahl Sniper
 
-![](./assets/weapons-dahl-sniper.jpeg)
+![](./assets/weapons_dahl_sniper.jpeg)
 
     Scout
     BL2(hwAAAAAp1wCBaIJBBIFEdoJZACMBZgXMBBguMGRg/v97gmEEgwHm)
@@ -979,7 +979,7 @@
 
 # Hyperion Sniper
 
-![](./assets/weapons-hyperion-sniper.jpeg)
+![](./assets/weapons_hyperion_sniper.jpeg)
 
     Competition
     BL2(hwAAAAACFwCA6IJBDIFEboJZACMB5gUMBRguMGRg/v9zgmkEkwHm)
@@ -1018,7 +1018,7 @@
 
 # Jakobs Sniper
 
-![](./assets/weapons-jakobs-sniper.jpeg)
+![](./assets/weapons_jakobs_sniper.jpeg)
 
     Diaub
     BL2(hwAAAABVHwCEyIJBBoFEgoJZACMBxgVMBZj//2Rg/v+HgnEEowHm)
@@ -1037,7 +1037,7 @@
 
 # Maliwan Sniper
 
-![](./assets/weapons-maliwan-sniper.jpeg)
+![](./assets/weapons_maliwan_sniper.jpeg)
 
     Rakehell
     BL2(hwAAAABnmgCDqIJBEIFEioJZACMBpgWMBRgcMGRg/v+PgnkEswHm)
@@ -1071,7 +1071,7 @@
 
 # Vladof Sniper
 
-![](./assets/weapons-vladof-sniper.jpeg)
+![](./assets/weapons_vladof_sniper.jpeg)
 
     Droog
     BL2(hwAAAABn4gCCiIJBCoFEmoJZACMBhgXMBRguMGRg/v+fgoEEwwHm)
@@ -1103,7 +1103,7 @@
 
 # Bandit Launcher
 
-![](./assets/weapons-bandit-launcher.jpeg)
+![](./assets/weapons_bandit_launcher.jpeg)
 
     Launcher
     BL2(hwAAAAD6LABDB4I/AoFEXqIgQ1GGIgCFGwoIFBwo/v8boDBB0YXi)
@@ -1142,7 +1142,7 @@
 
 # Maliwan Launcher
 
-![](./assets/weapons-maliwan-launcher.jpeg)
+![](./assets/weapons_maliwan_launcher.jpeg)
 
     Projectile
     BL2(hwAAAABGzwBEZ4I/EIFEVqIgQ1GGggCFG4r//xwo/v87oDhBoYfi)
@@ -1174,7 +1174,7 @@
 
 # Tediore Launcher
 
-![](./assets/weapons-tediore-launcher.jpeg)
+![](./assets/weapons_tediore_launcher.jpeg)
 
     Launcher
     BL2(hwAAAADgAQBAJ4I/DoFEZqIgQ1GGQgCFGwoIFBwo/v8joEBB0YXi)
@@ -1206,7 +1206,7 @@
 
 # Torgue Launcher
 
-![](./assets/weapons-torgue-launcher.jpeg)
+![](./assets/weapons_torgue_launcher.jpeg)
 
     Boom
     BL2(hwAAAADIsQBBh4I/CIFEbqIgQ1GGogCFGwoIFBwo/v8zoEhBUYfi)
@@ -1225,7 +1225,7 @@
 
 # Vladof Launcher
 
-![](./assets/weapons-vladof-launcher.jpeg)
+![](./assets/weapons_vladof_launcher.jpeg)
 
     RPG
     BL2(hwAAAADnKQBCR4I/CoFElqIgQ1GGYgCFGwoIFBwo/v8roFBBAYfi)

@@ -1,6 +1,6 @@
 # Transfusion Grenades
 
-![](./assets/grenade-transfusion.jpeg)
+![](./assets/grenade_transfusion.jpeg)
 
     Homing
     BL2(BwAAAAAu4wABDzboABFIJBsDEIMdgwEDDoMOw/9/HYMVAx7DLcM=)
@@ -53,7 +53,7 @@
 
 # Standard Grenades
 
-![](./assets/grenade-standard-grenade.jpeg)
+![](./assets/grenade_standard_grenade.jpeg)
 
     Standard (Bandit)
     Homing
@@ -157,7 +157,7 @@
 
 # Mirv Grenades
 
-![](./assets/grenade-mirv.jpeg)
+![](./assets/grenade_mirv.jpeg)
 
     Mirv (Bandit)
     Homing
@@ -234,7 +234,7 @@
 
 # Bouncing Betty Grenades
 
-![](./assets/grenade-bouncing-betty.jpeg)
+![](./assets/grenade_bouncing_betty.jpeg)
 
     Bouncing Betty (Bandit)
     Homing
@@ -338,7 +338,7 @@
 
 # Area of Effect
 
-![](./assets/grenade-tesla.jpeg)
+![](./assets/grenade_tesla.jpeg)
 
     Homing
     BL2(BwAAAADJgAABDzTooBBI5BoDEIMdAwsDDoMGw/9/HUMZAx5DIcM=) (Corrosive)
@@ -362,7 +362,7 @@
 
 # Singularity Grenades
 
-![](./assets/grenade-singularity.jpeg)
+![](./assets/grenade_singularity.jpeg)
 
     Homing
     BL2(BwAAAADzTAABDzLowBBIpBoDEIMdgwEDDoMOw/9/HUMUAx4DKsM=)

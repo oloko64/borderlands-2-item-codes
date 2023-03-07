@@ -1,6 +1,6 @@
 # Godfinger
 
-![](./assets/sniper-godfinger.jpeg)
+![](./assets/sniper_godfinger.jpeg)
 
     Skookum Godfinger
     BL2(hwAAAADdJAqEKIAAB4FELgBcAEMA0AVMBZj//2Rg/v8XAHQEMwDw)
@@ -25,7 +25,7 @@
 
 # Storm
 
-![](./assets/sniper-storm.jpeg)
+![](./assets/sniper_storm.jpeg)
 
     Barking Storm (Damage)
     BL2(hwAAAADdeQiD6AAAEYFElgBcAGMCsAWMBZgbMGRg/v+DAHwEMwHw) shock
@@ -50,7 +50,7 @@
 
 # Hawk Eye
 
-![](./assets/sniper-hawk-eye.jpeg)
+![](./assets/sniper_hawk_eye.jpeg)
 
     Skookum Hawk Eye (Damage)
     BL2(hwAAAABTpgSEiAMJB4FEgoJZAJMK0gVMBZj//2Rg/v+jgnQEcwry)
@@ -75,7 +75,7 @@
 
 # Patriot
 
-![](./assets/sniper-patriot.jpeg)
+![](./assets/sniper_patriot.jpeg)
 
     Gromky Patriot (Damage)
     BL2(hwAAAABgKQGCCAIAC4FEmoJZAGMCkAXMBRguMGRg/v/PAYQEgwLw)
@@ -128,7 +128,7 @@
 
 # Lyuda
 
-![](./assets/sniper-lyuda.jpeg)
+![](./assets/sniper_lyuda.jpeg)
 
     Gromky White Death (Damage)
     BL2(hwAAAADLDgCCqINBCoFEmoJZAAMLhgXMBRguMGRg/v/HgoEEswvm)
@@ -181,7 +181,7 @@
 
 # Skullmasher
 
-![](./assets/sniper-skullmasher.jpeg)
+![](./assets/sniper_skullmasher.jpeg)
 
     Skookum Skullsmasher (Damage)
     BL2(hwAAAADK+wCE6INBBoFEgoJZAMMKxgVMBZj//2Rg/v+3gnEEkwvm)
@@ -205,7 +205,7 @@
 
 # Pitchfork
 
-![](./assets/sniper-pitchfork.jpeg)
+![](./assets/sniper_pitchfork.jpeg)
 
     Pacifying Pitchfork (Damage)
     BL2(hwAAAAArVwCBiINBBIFEdoJZAIMKZgXMBBguMGRg/v+ngmEEcwvm)
@@ -258,7 +258,7 @@
 
 # Invader
 
-![](./assets/sniper-invader.jpeg)
+![](./assets/sniper_invader.jpeg)
 
     Auditing Invader (Damage)
     BL2(hwAAAAA52gCACIRBDIFEboJZAKMK5gUMBRguMGRg/v+vgmkEgwvm) 
@@ -309,7 +309,7 @@
 
 # Volcano
 
-![](./assets/sniper-volcano.jpeg)
+![](./assets/sniper_volcano.jpeg)
 
     Barking Volcano (Damage)
     BL2(hwAAAAC9tQCDyINBEIFEioJZAOMKpgWMBRgbMGRg/v+/gnkEowvm) fire
@@ -334,7 +334,7 @@
 
 # Longbow
 
-![](./assets/sniper-longbow.jpeg)
+![](./assets/sniper_longbow.jpeg)
 
     Venture Longbow (Critical Damage)
     BL2(hwAAAAAlHwCAaIRBDIFEFoBRAAMNhhcMBRgbMGBg/v8zg8kDQw3m) fire
@@ -353,7 +353,7 @@
 
 # Sloth
 
-![](./assets/sniper-sloth.jpeg)
+![](./assets/sniper_sloth.jpeg)
 
     Pacifying Sloth (Damage)
     BL2(hwAAAACqcwCBCIBBBIFE/oBZAHMCZgXMBBguMGRg/v+jgGEE4wPm)
@@ -412,7 +412,7 @@
 
 # Trespasser
 
-![](./assets/sniper-trespasser.jpeg)
+![](./assets/sniper_trespasser.jpeg)
 
     Skookum Trespasser (Damage)
     BL2(hwAAAABnOACEKIBBBoFEBoFZAJMCxgVMBZj//2Rg/v9Xg3EEYw3m)
@@ -441,7 +441,7 @@
 
 # Elephant Gun
 
-![](./assets/sniper-elephant-gun.jpeg)
+![](./assets/sniper_elephant_gun.jpeg)
 
     Tumtum Elephant Gun (Critical Damage)
     BL2(hwAAAACY6gSECIAJB4FEEqBcADOAshdMBZj//2Bg/v8LoNQDA4Dy)
@@ -460,7 +460,7 @@
 
 # Cobra
 
-![](./assets/sniper-cobra.jpeg)
+![](./assets/sniper_cobra.jpeg)
 
     Skookum Cobra (Damage)
     BL2(hwAAAADHxQOESIANB4FEBoFZAHOA0AVMBZj//2Rg/v8jIHQEY4Dw)
@@ -488,7 +488,7 @@
 
 # Fremington's Edge
 
-![](./assets/sniper-edge.jpeg)
+![](./assets/sniper_edge.jpeg)
 
     Auditing Fremington's Edge (Damage)
     BL2(hwAAAACuHwCAiIRBDIFEFoBZAPMMxhcMBRguMGRg/v83g2kEAwDm)
@@ -547,7 +547,7 @@
 
 # Chere-amie
 
-![](./assets/sniper-chere-amie.jpeg)
+![](./assets/sniper_chere_amie.jpeg)
 
     Barking Chere-amie (Damage)
     BL2(hwAAAABUJwCDyIFBEIFEXoJZABMJpgWMBZj//2Rg/v9LgnkEUwnm)
@@ -607,7 +607,7 @@
 
 # Pimpernel
 
-![](./assets/sniper-pimpernel.jpeg)
+![](./assets/sniper_pimpernel.jpeg)
 
     Barking Pimpernel (Damage)
     BL2(hwAAAAAaxgGDqIEDEYFEXoJZAPOBsAWMBZj//2Rg/v/XIHwEA4Lw)
@@ -660,7 +660,7 @@
 
 # Morningstar
 
-![](./assets/sniper-morningstar.jpeg)
+![](./assets/sniper_morningstar.jpeg)
 
     Auditing Morningstar (Damage)
     BL2(hwAAAABW/QCASIRBDIFEFoBZABMN5gUMBRguMGRg/v8vg2kEMw3m)
@@ -720,7 +720,7 @@
 
 # Buffalo
 
-![](./assets/sniper-buffalo.jpeg)
+![](./assets/sniper_buffalo.jpeg)
 
     Tumtum Buffalo (Critical Damage)
     BL2(hwAAAAAV4gCEKIRBBoFEBoFZAOMMphdMBZj//2Bg/v8rg9EDIw3m)
