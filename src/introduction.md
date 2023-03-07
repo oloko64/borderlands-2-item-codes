@@ -4,7 +4,6 @@ This was based on [Sparfires](https://imgur.com/user/sparfires) Imgur item list.
 
 This project aims to move all the codes to Github and convert it to Markdown format, making easier to read and improving loading times.
 
-# Index List
 ## Legendary Seraph Unique Perlescent Weapons
 - [Assault Rifles](./legendary_seraph_unique_perlescent_weapons/pearlescent_seraph_legendary_unique_assault_rifles.md)
 
