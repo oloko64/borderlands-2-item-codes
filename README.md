@@ -60,3 +60,25 @@ This project aims to move all the codes to Github and convert it to Markdown for
 ## Visual Parts Reference
 
 - [Visual Parts Reference](src/visual_parts_reference/visual_parts_reference.md)
+
+---
+
+## Build the MDBook
+
+You need to have [Rust](https://www.rust-lang.org/tools/install) installed to build the MDBook.
+
+```bash
+cargo install mdbook
+```
+
+Now you can build the MDBook. Inside the project folder run:
+
+```bash
+# Build the MDBook
+mdbook build .
+
+# Build and open the MDBook
+mdbook build . --open
+```
+
+The output will be inside the `book` folder. To update the book on Github Pages, just copy the contents inside the `book` folder to the `book` branch.
